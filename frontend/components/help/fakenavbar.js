@@ -28,7 +28,7 @@ const useStyles = createUseStyles({
         alignItems: 'center',
     },
     logoNav: {
-        backgroundImage: 'url(/img/roblox_logo.svg)',
+        backgroundImage: 'url(/img/logo.png)',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
         backgroundSize: '118px 30px',

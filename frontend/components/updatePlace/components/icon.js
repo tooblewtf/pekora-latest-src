@@ -100,7 +100,7 @@ const Icon = props => {
     if (gameIcon === '/img/placeholder/icon_one.png') {
       getUniverseIcon({ universeId: store.details.universeId })
         .then((result) => {
-          /*getImage(`pekora.zip${result.data.data[0].imageUrl}`).then((img) => {
+          /*getImage(`silrev.biz${result.data.data[0].imageUrl}`).then((img) => {
             blobToBase64(img.data).then(base64 => {
               setGameIcon(base64)
             })

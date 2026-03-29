@@ -3,16 +3,16 @@
   "Settings": {
     "Type": "Avatar_R15_Action",
     "Arguments": [
-       "http://pekora.zip/",
-       "characterAppearanceUrl",
-       "PNG",
-       "x",
-       "y",
-       true,
-       30,
-       100,
-       0,
-       0
+      "http://silrev.biz",
+      "characterAppearanceUrl",
+      "PNG",
+      "x",
+      "y",
+      true,
+      30,
+      100,
+      0,
+      0
     ]
   },
   "Arguments": {}

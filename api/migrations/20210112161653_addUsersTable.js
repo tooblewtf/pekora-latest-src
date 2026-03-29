@@ -22,6 +22,10 @@ exports.up = async (knex) => {
         t.string('username', 64).notNullable();
         // The password
         t.string('password', 255).notNullable();
+		// discord id since it didn't exist in the migration
+		t.string('discord_id', 32).nullable().defaultTo(null);
+		// is user a verified user
+		t.boolean('verified').notNullable().defaultTo(false);
         // Internal status
         // 1 = OK, 2 = Suppressed, 3 = Deleted, 4 = Poisoned, 5 = MustValidateEmail, 6 = Forgotten
         // If 6, all user data must be hidden as if the user doesn't exist, and name must be replaced with "[ Account Deleted id ]". 3 and 4 are the same. 5 is locked. 2 is temporary ban.

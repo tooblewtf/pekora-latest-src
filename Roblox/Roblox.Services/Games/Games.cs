@@ -17,8 +17,12 @@ public class GamesService : ServiceBase, IService
     private GameServerService gameServer = new();
     private SignService sign = new();
     //ugh
+	// balls
     public readonly Dictionary<long, string> clientVersionMap = new Dictionary<long, string>
     {
+        { 2012, "2012M" },
+        { 2015, "2015L" },
+        { 2016, "2016E" },
         { 2017, "2017L" },
         { 2018, "2018L" },
         { 2020, "2020L" },
@@ -608,24 +612,8 @@ public class GamesService : ServiceBase, IService
                 // Classic games place IDs
                 var placeIds = new List<long>
                 {
-                    22,     // Natural Disaster Survival
-                    13228,  // WAAPP
-                    22037,  // MM2
-                    32309,  // The Normal Elevator
-                    52729,  // PEKORA High School
-                    1547,   // Escape McDonalds!
-                    1176,   // Epic Minigames
-                    1287,   // Flood Escape 1
-                    14931,  // Be Crushed By A Speeding Wall!
-                    3562,   // Cart Ride into Stuff!
-                    56350,  // Hotel Elephant
-                    1437,   // Prison Life
-                    51090,  // Speed Run 4
-                    25638,  // ★Make a Cake And Feed the Giant Noob★
-                    16677,  // Theme Park Tycoon 2
-                    4207,   // Blox Hunt
-                    7826,   // Hide and Seek Extreme
-                    5606    // Build a Boat for Treasure
+                    4,     // when the
+                    // this will be used for like pekora games
                 };
                 sortOrder = placeIds;
                 query.Where($"asset.id IN ({string.Join(",", placeIds)})");
@@ -654,6 +642,7 @@ public class GamesService : ServiceBase, IService
         else if (sortRequired)
         {
             // Try to sort by highest player count - should be done by sql but I can't test it right now
+			// why?
             var newResults = result.ToList();
             newResults.Sort((a, b) =>
             {
@@ -693,11 +682,14 @@ public class GamesService : ServiceBase, IService
         });
     }
 
+    // was there gonna be a 2019 client?????
     public readonly List<long> AllowedGameYears = new List<long>
     {
+		2012,
+		2015,
+		2016,
         2017,
         2018,
-        2019,
         2020,
         2021
     };
@@ -1013,6 +1005,7 @@ public class GamesService : ServiceBase, IService
     }
 
     // if this src ever gets leaked this is NOT for storing ips, its for matchmaking and for getting the server info
+	// simple explaination: takes your ip and checks what country you're in so matchmaking becomes easier for the game servers and the site
     public async Task<dynamic> GetInfoFromIp(string ip)
     {
         string url = $"http://ip-api.com/json/{ip}";
@@ -1034,11 +1027,11 @@ public class GamesService : ServiceBase, IService
         // Malte testing
         string ip = Configuration.GameServerIp;
         long port = jobInfo.port;
-        if (placeInfo.placeId == 64139)
-        {
-            port = 6646;
-            ip = "147.185.221.17";
-        }
+        // if (placeInfo.placeId == 64139) // what? why do we need this as of rn, comment these test stuff out
+        // {
+        //    port = 6646;
+        //    ip = "147.185.221.17";
+        // }
         var joinScript = new
         {
             ClientPort = 0,
@@ -1104,8 +1097,8 @@ public class GamesService : ServiceBase, IService
 
         return year switch
         {
-            2015 or 2016 or 2017 => sign.SignJsonResponseForClientFromPrivateKey(joinScript),
-            2018 or 2019 or 2020 or 2021 => sign.SignJson2048(joinScript),
+            2012 or 2015 or 2016 or 2017 => sign.SignJsonResponseForClientFromPrivateKey(joinScript),
+            2018 or 2020 or 2021 => sign.SignJson2048(joinScript),
             _ => "Fail"
         };
     }
@@ -1175,7 +1168,7 @@ public class GamesService : ServiceBase, IService
             };
         });
     }
-    public async Task<DeveloperProductDb> GetDeveloperProductInfoFull(long productId)
+    public async Task<DeveloperProductDb> GetDeveloperProductInfoFull(long productId) // useful for db recreation
     {
         var qu = await db.QueryFirstOrDefaultAsync<DeveloperProductDb?>(
             @"SELECT dv.id, dv.name, dv.description, dv.sales, dv.price,

@@ -68,7 +68,7 @@
                     <p class="mt-3 mb-0">Application Status: <span class="fw-bolder">@(Model.displayStatus)</span></p>
                     @if (Model.application.status == UserApplicationStatus.Approved)
                     {
-                        <p>Join URL: <a href="/auth/signup?applicationId=@Model.application.joinId">https://www.pekora.zip/auth/signup?applicationId=@Model.application.joinId</a></p>
+                        <p>Join URL: <a href="/auth/signup?applicationId=@Model.application.joinId">https://www.silrev.biz/auth/signup?applicationId=@Model.application.joinId</a></p>
                     }
                     @if (Model.application.status == UserApplicationStatus.Rejected)
                     {
@@ -90,7 +90,16 @@
                             <h4>Requirements</h4>
                             <ul>
                                 <li>You must be 13 years of age or older</li>
-                                <li>You must have an active account on a public website such as Roblox or Twitter.</li>
+                                <li>You must have an active Roblox account.</li>
+                            </ul>
+                        </div>
+						
+						<div>
+                            <h4>Notes to take care of</h4>
+                            <ul>
+                                <li>Marine is not affiliated with Pekora or it's owner (supra) in any way, shape or form, This is just a community project developed by Trusted and known users within Pekora.</li>
+                                <li>Marine is served to you as-is, No warranties or anything.</li>
+								<li>By submitting an application, you agree with Marine's Terms of Service and Privacy Policy.</li>
                             </ul>
                         </div>
 
@@ -100,7 +109,7 @@
                             <div class="stage-1">
                                 <h4>Step 1 - Discord</h4>
                                 <div class="p-2">
-                                    <p class="mb-0">For further authentication, we need you to authorize our bot to know you aren't a bot. You will also be added to the Pekora Discord Guild.</p>
+                                    <p class="mb-0">For further authentication, we need you to authorize our bot to know you aren't a bot.</p>
                                     <div class="alert alert-primary mt-2 mb-2 d-flex align-items-center">
                                         <img src="@Model.discordUser.AvatarUrl" alt="Discord Avatar" style="width: 20px; height: 20px; margin-right: 8px;">
                                         <span class="ml-auto">@('@' + Model.discordUser.Username) (@Model.discordUser.Id.ToString())</span>
@@ -111,7 +120,7 @@
                             <div class="stage-2">
                                 <h4>Step 2 - About Me</h4>
                                 <div class="p-2">
-                                    <p class="mb-1">You can list some interests, favorite video games, why you want to join, things you can create (e.g. clothing or games), etc. A sentence or two is fine. <span class="fw-bolder">Do <span class="text-decoration-underline">NOT</span> put personal information such as your age or email address</span>.</p>
+                                    <p class="mb-1">You can list some interests, favorite video games, why you want to join, things you can create (e.g. clothing or games), etc. A sentence or two is fine. <span class="fw-bolder">Do <span class="text-decoration-underline">NOT</span> put personal information such as your age or email address, You will be declined if you do that</span>.</p>
                                     <textarea placeholder="About me (up to 4,000 characters)" disabled="@Model.submitDisabled" class="form-control w-100" rows="4" name="about" maxlength="4096">@Model.about</textarea>
                                 </div>
                             </div>
@@ -132,7 +141,7 @@
                             <div class="stage-4">
                                 <h4>Step 4 - Verification</h4>
                                 <div class="p-2">
-                                    <p class="mb-0">Copy the entire phrase in the blue box below and paste it into the about section of your social media profile. This is done so that we can verify you aren't impersonating someone.</p>
+                                    <p class="mb-0">Copy the entire phrase in the blue box below and paste it into the about section/description of your Roblox profile. This is done so that we can verify you aren't impersonating someone.</p>
                                     <div class="alert alert-primary mt-2 mb-2">
                                         <p class="mb-0">@Model.verificationPhrase</p>
                                     </div>
@@ -149,7 +158,7 @@
                                 <div class="p-2">
                                     <p class="mb-0">Enter the referral code here, if you don't have one you can leave it blank</p>
                                     <p class="mb-2 mt-2"><span class="fw-bold">You will both will receive 50 robux.</span></p>
-                                    <input placeholder="Your Referral code" value="@Model.referralCode" disabled="@Model.submitDisabled" type="text" class="form-control" name="referralCode" maxlength="60"/>
+                                    <input placeholder="Your Referral code (ex: HoushouMarine)" value="@Model.referralCode" disabled="@Model.submitDisabled" type="text" class="form-control" name="referralCode" maxlength="60"/>
                                 </div>
                             </div>
 

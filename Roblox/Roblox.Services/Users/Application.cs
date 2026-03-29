@@ -138,9 +138,9 @@ public class ApplicationService : ServiceBase, IService
         "bass",
         "bee",
         "hololive",
-        "usada",
-        "reg",
-        "coolsupra",
+        "medi",
+        "skyler",
+        "kar",
     }.Distinct().ToList();
 
     private int GetWordCount(GenerationContext ctx)
@@ -166,7 +166,7 @@ public class ApplicationService : ServiceBase, IService
             var word = verificationWords[random.Next(verificationWords.Count)];
             phrases.Add(word);
         }
-        return "pekora " + string.Join(" ", phrases);
+        return "marine " + string.Join(" ", phrases);
     }
 
     public bool IsThreadSafe()

@@ -106,7 +106,7 @@ const LoginArea = props => {
             showCookieTutorial ? <GetCookie setVisible={setShowCookieTutorial} /> : null
         }
         <div className='col-12'>
-            <h1 className={s.header}>Login to Pekora</h1>
+            <h1 className={s.header}>Login to Marine</h1>
             {feedback && <p className='mb-2 mt-1 text-danger'>{feedback}</p>}
         </div>
         <div className='col-12'>

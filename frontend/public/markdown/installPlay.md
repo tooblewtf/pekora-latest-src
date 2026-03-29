@@ -2,16 +2,16 @@
 
 ### **Windows**
 
-On Windows, installing Pekora is easy.
-1. Install Pekora Player
-    * Go to any game on the Pekora website
+On Windows, installing Marine is easy.
+1. Install Marine Player
+    * Go to any game on the Marine website
     * Click the **Play** button
-    * Click the **Download and Install Pekora** button on the modal that will appear
-    * Your browser may say the download is dangerous. This is called a false-positive, due to the Pekora launcher not being signed. **Click on the "Antivirus detects Pekora as a trojan" article for a deeper explanation and a solution.**
+    * Click the **Download and Install Marine** button on the modal that will appear
+    * Your browser may say the download is dangerous. This is called a false-positive, due to the Marine launcher not being signed. **Click on the "Antivirus detects Marine as a trojan" article for a deeper explanation and a solution.**
 2. Launch the player via any modern browser (Chromium-based, Firefox)
-    * Go to any game on the Pekora website
+    * Go to any game on the Marine website
     * Click the **Play** button
-    * A secondary pop-up may appear asking you to select a program. Select Pekora and confirm. If you select to remember your choice, you will not need to perform this action in the future
+    * A secondary pop-up may appear asking you to select a program. Select Marine and confirm. If you select to remember your choice, you will not need to perform this action in the future
 
 #### Supported Windows Versions
 | Windows Release     | Support                        |
@@ -19,31 +19,31 @@ On Windows, installing Pekora is easy.
 | Windows 11          | ✅                              |
 | Windows 10          | ✅                              |
 | Windows 8.1/8       | ✅                              |
-| Windows 7           | ⚠️ (Works, but not supported)  |
+| Windows 7           | ⚠️ (Untested, unsupported)      |
 | Windows Vista       | ⚠️ (Untested, could work)      |
 | Windows XP or below | ⛔(Untested, likely won't work) |
 
 ### **macOS**
 
-Pekora currently does not support macOS.
+Marine currently does not support macOS.
 
 ### **Linux**
 
-While it is **possible** to get Pekora working on Linux using Wine, it is **not supported** and we will not help you troubleshoot any issues you encounter while trying this. (though you can ask around in our Discord!)
+While it is **possible** to get Marine working on Linux using Wine, it is **not supported** and we will not help you troubleshoot any issues you encounter while trying this. (though you can ask around in our Discord!)
 
 *Do note that 2017 is guaranteed to not work on Linux, for now. This is due to our anti-cheat not supporting it yet.*
 
 ## **Mobile Platforms**
 
-Visit the download page for mobile Pekora versions [by clicking here](/download2)
+Visit the download page for mobile Marine versions [by clicking here](/download2)
 
-Note that whatever year you choose to download for your platform (such as Pekora 2017 APK), you can **only play 2017 games** on the website.
+Note that whatever year you choose to download for your platform (such as Marine 2017 APK), you can **only play 2017 games** on the website.
 
 ### **Android**
 
-Pekora on Android currently only supports one version, 2017.
+Marine on Android currently only supports one version, 2017.
 
-To install Pekora 2017, you must download an APK file, which is equivalent to an EXE or an MSI file on Windows. This will automatically download the Pekora 2017 app for you. 
+To install Marine 2017, you must download an APK file, which is equivalent to an EXE or an MSI file on Windows. This will automatically download the Marine 2017 app for you. 
 However, this **will overwrite the official Roblox app** unless you clone it yourself and change the package name.
 
 We are working on a better solution for mobile, including adding more versions than 2017.
@@ -52,22 +52,22 @@ TODO: provide image instructions for all of this stuff, including this, which mi
 
 ### **iOS and iPadOS**
 
-While there aren't exact statistics yet for support of each iPhone, we can generally say iPhone 6 and above can most likely run Pekora 2017 games with acceptable performance.
+While there aren't exact statistics yet for support of each iPhone, we can generally say iPhone 6 and above can most likely run Marine 2017 games with acceptable performance.
 
-TODO: explain here how to download and install Pekora versions on ios, including notes about how you can only have 1 at a time (i think?)
+TODO: explain here how to download and install Marine versions on ios, including notes about how you can only have 1 at a time (i think?)
 
-## **Pekora Studio**
+## **Marine Studio**
 
 All studios currently only support Windows 7 and above. Available studio versions are 2017, 2018, 2020, and 2021.
 
 As of right now, there is no Studio Bootstrapper, meaning you'll have to manually download each studio and extract them to wherever you'd like. This will change in the future.
 
-Pekora Studio downloads can be [found here.](/download)
+Marine Studio downloads can be [found here.](/download)
 
-### How to Download and Install Pekora Studio
+### How to Download and Install Marine Studio
 
 1. Choose your Studio version and download
-   * Go to the **[download page for Pekora Studio](/download)**
+   * Go to the **[download page for Marine Studio](/download)**
    * Choose which Studio version you would like to download
    * Click **"Download Studio (TODO: or whatever the button will be called eventually)"** and let the download finish
 2. Extract your Studio to wherever you'd like

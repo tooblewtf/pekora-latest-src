@@ -130,7 +130,7 @@ local enUS =
 	["AuthAccountUnlinkedPhrase"] = "";	-- This is a special case handled by EngagementScreen
 	["AuthMissingGamePadPhrase"] = "No gamepad detected. Please turn on a gamepad.";
 	["AuthNoUserDetectedPhrase"] = "No Xbox Live user detected. Please sign in to an Xbox Live account.";
-	["AuthHttpErrorDetected"] = "Trouble communicating with ROBLOX servers. Please check www.pekora.zip/help/xbox for more info.";
+	["AuthHttpErrorDetected"] = "Trouble communicating with ROBLOX servers. Please check www.silrev.biz/help/xbox for more info.";
 	["AuthErrorPhrase"] = "Trouble communicating with ROBLOX servers. Please try again.";
 
 	-- Sign In
@@ -230,7 +230,7 @@ local enUS =
 
 	-- Terms of Service & Privacy
 	["ToSPhrase"] = "View Terms...";
-	["ToSInfoLinkPhrase"] = "Terms & Privacy Policy:\nwww.pekora.zip/info/terms-of-service\nwww.pekora.zip/info/Privacy.aspx";
+	["ToSInfoLinkPhrase"] = "Terms & Privacy Policy:\nwww.silrev.biz/info/terms-of-service\nwww.silrev.biz/info/Privacy.aspx";
 	["PrivacyPhrase"] = "Privacy";
 
 	-- Codes
@@ -259,7 +259,7 @@ local enUS =
 	["ActiveUserLostConnectionPhrase"] = "User '%s' has been logged out, please press 'A' on the controller you would like to continue with.";
 
 	["PlayMyPlaceMoreGamesTitle"] = "My Games";
-	["PlayMyPlaceMoreGamesPhrase"] = "Sign in on pekora.zip to create more games and edit your existing creations!";
+	["PlayMyPlaceMoreGamesPhrase"] = "Sign in on silrev.biz to create more games and edit your existing creations!";
 	["PrivateSessionPhrase"] = "In Private Game";
 
 	-- Reauth (Booted to engagement screen), alerts

@@ -98,7 +98,7 @@ const SellItem = props => {
     <div className='col-12'>
       <h3>Sell this Item</h3>
       <hr className='mt-0 mb-2' />
-      <p className='ps-2 pe-2'>Check the box below and enter a price if you want to sell this item in the Pekora catalog. Uncheck the box to remove the item from catalog.</p>
+      <p className='ps-2 pe-2'>Check the box below and enter a price if you want to sell this item in the Marine catalog. Uncheck the box to remove the item from catalog.</p>
     </div>
     <div>
       <input type='checkbox' disabled={store.locked} checked={store.isForSale} onChange={e => {

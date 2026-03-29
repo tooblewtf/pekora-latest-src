@@ -53,7 +53,7 @@ const CreateUserAd = props => {
       </div>
       <div className='col-12 mt-4'>
         <h2>Instructions</h2>
-        <p>On Pekora, users can bid an amount of robux to buy advertising for their places, groups, clothing, and models.</p>
+        <p>On Marine, users can bid an amount of robux to buy advertising for their places, groups, clothing, and models.</p>
         <p>Download, Edit, and Upload one of the following templates:</p>
         <ul className={s.buttonList}>
           <li className='mb-2'>

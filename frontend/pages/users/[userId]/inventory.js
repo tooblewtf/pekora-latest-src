@@ -5,8 +5,8 @@ import Head from "next/head";
 
 const UserInventoryPage = ({ username, userId }) => {
   const router = useRouter();
-  const ogTitle = username ? `${username}'s Inventory` : "Pekora";
-  const ogUrl = userId ? `https://pekora.zip/users/${userId}/inventory` : '';
+  const ogTitle = username ? `${username}'s Inventory` : "Marine";
+  const ogUrl = userId ? `https://silrev.biz/users/${userId}/inventory` : '';
 
   return (
     <>
@@ -17,8 +17,8 @@ const UserInventoryPage = ({ username, userId }) => {
           <meta property="og:url" content={ogUrl} />
           <meta property="og:type" content="profile" />
           <meta property="og:description" content={`View ${username}'s inventory`} />
-          <meta property="og:image" content={`https://pekora.zip/thumbs/avatar-headshot.ashx?userId=${userId}`} />
-          <meta name="og:site_name" content="Pekora" />
+          <meta property="og:image" content={`https://silrev.biz/thumbs/avatar-headshot.ashx?userId=${userId}`} />
+          <meta name="og:site_name" content="Marine" />
           <meta name="theme-color" content="#E2231A" />
         </Head>
       )}

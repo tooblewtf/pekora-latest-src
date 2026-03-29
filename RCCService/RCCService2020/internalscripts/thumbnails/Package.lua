@@ -1,5 +1,5 @@
 -- Package v1.1.7
--- See http://wiki.pekora.zip/index.php?title=R15_Compatibility_Guide#Package_Parts for details on how body parts work with R15
+-- See http://wiki.silrev.biz/index.php?title=R15_Compatibility_Guide#Package_Parts for details on how body parts work with R15
 
 local assetUrls, baseUrl, fileExtension, x, y, R6RigUrl, customTextureUrls = ...
 
@@ -101,17 +101,17 @@ end
 ThumbnailGenerator:AddProfilingCheckpoint("ObjectsLoaded")
 
 -- if the package doesn't contain animations, use this pose.
-poseAnimationId = poseAnimationId or "http://www.pekora.zip/asset/?id=532421348"
+poseAnimationId = poseAnimationId or "http://www.silrev.biz/asset/?id=532421348"
 
 -- Only use R6 if we found body parts that are only compatible with R15
 if #R6Assets ~= 0 and #R15Assets == 0 and #R15ArtistIntentAssets == 0 then
     useR15 = false
 end
 
-local R15RigUrl = "http://www.pekora.zip/asset/?id=516159357"
+local R15RigUrl = "http://www.silrev.biz/asset/?id=516159357"
 if useR15 and #R15ArtistIntentAssets > 0 then
 	useR15ArtistIntent = true
-	R15RigUrl = "http://www.pekora.zip/asset/?id=1664543044"
+	R15RigUrl = "http://www.silrev.biz/asset/?id=1664543044"
 end
 
 local mannequin

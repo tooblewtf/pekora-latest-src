@@ -1100,7 +1100,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 57684660,
 							"Name": "Ninjafaic",
-							"AbsoluteUrl": "https://www.pekora.zip/Ninjafaic-item?id=57684660",
+							"AbsoluteUrl": "https://www.silrev.biz/Ninjafaic-item?id=57684660",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1117,7 +1117,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1167,7 +1167,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 607700713,
 							"Name": "Roblox Logo Visor",
-							"AbsoluteUrl": "https://www.pekora.zip/Roblox-Logo-Visor-item?id=607700713",
+							"AbsoluteUrl": "https://www.silrev.biz/Roblox-Logo-Visor-item?id=607700713",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1184,7 +1184,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1234,7 +1234,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 607702162,
 							"Name": "Roblox Baseball Cap",
-							"AbsoluteUrl": "https://www.pekora.zip/Roblox-Baseball-Cap-item?id=607702162",
+							"AbsoluteUrl": "https://www.silrev.biz/Roblox-Baseball-Cap-item?id=607702162",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1251,7 +1251,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1301,7 +1301,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 116777823,
 							"Name": "Roblox Visor",
-							"AbsoluteUrl": "https://www.pekora.zip/Roblox-Visor-item?id=116777823",
+							"AbsoluteUrl": "https://www.silrev.biz/Roblox-Visor-item?id=116777823",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1318,7 +1318,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1368,7 +1368,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 562258908,
 							"Name": "Snowy Red Ice-Nine Drone Helm",
-							"AbsoluteUrl": "https://www.pekora.zip/Snowy-Red-Ice-Nine-Drone-Helm-item?id=562258908",
+							"AbsoluteUrl": "https://www.silrev.biz/Snowy-Red-Ice-Nine-Drone-Helm-item?id=562258908",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1385,7 +1385,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1435,7 +1435,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 554639910,
 							"Name": "Violet Hood of the Ages",
-							"AbsoluteUrl": "https://www.pekora.zip/Violet-Hood-of-the-Ages-item?id=554639910",
+							"AbsoluteUrl": "https://www.silrev.biz/Violet-Hood-of-the-Ages-item?id=554639910",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1452,7 +1452,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1502,7 +1502,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 536288533,
 							"Name": "Temple Challenger Hat",
-							"AbsoluteUrl": "https://www.pekora.zip/Temple-Challenger-Hat-item?id=536288533",
+							"AbsoluteUrl": "https://www.silrev.biz/Temple-Challenger-Hat-item?id=536288533",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1519,7 +1519,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1569,7 +1569,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 1158038,
 							"Name": "Classic ROBLOX Pumpkin Head",
-							"AbsoluteUrl": "https://www.pekora.zip/Classic-ROBLOX-Pumpkin-Head-item?id=1158038",
+							"AbsoluteUrl": "https://www.silrev.biz/Classic-ROBLOX-Pumpkin-Head-item?id=1158038",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1586,7 +1586,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1636,7 +1636,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 497670934,
 							"Name": "Scholastic Spirit Animals Virtual Leopard",
-							"AbsoluteUrl": "https://www.pekora.zip/Scholastic-Spirit-Animals-Virtual-Leopard-item?id=497670934",
+							"AbsoluteUrl": "https://www.silrev.biz/Scholastic-Spirit-Animals-Virtual-Leopard-item?id=497670934",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1653,7 +1653,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1703,7 +1703,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 17449488,
 							"Name": "Hothead",
-							"AbsoluteUrl": "https://www.pekora.zip/Hothead-item?id=17449488",
+							"AbsoluteUrl": "https://www.silrev.biz/Hothead-item?id=17449488",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1720,7 +1720,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1770,7 +1770,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 456225595,
 							"Name": "Painter Skater",
-							"AbsoluteUrl": "https://www.pekora.zip/Painter-Skater-item?id=456225595",
+							"AbsoluteUrl": "https://www.silrev.biz/Painter-Skater-item?id=456225595",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1787,7 +1787,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1837,7 +1837,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 493482011,
 							"Name": "DIY Rainbow Shaggy",
-							"AbsoluteUrl": "https://www.pekora.zip/DIY-Rainbow-Shaggy-item?id=493482011",
+							"AbsoluteUrl": "https://www.silrev.biz/DIY-Rainbow-Shaggy-item?id=493482011",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1854,7 +1854,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1904,7 +1904,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 323477117,
 							"Name": "Andromeda Explorer Helmet",
-							"AbsoluteUrl": "https://www.pekora.zip/Andromeda-Explorer-Helmet-item?id=323477117",
+							"AbsoluteUrl": "https://www.silrev.biz/Andromeda-Explorer-Helmet-item?id=323477117",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1921,7 +1921,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -1971,7 +1971,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 489176525,
 							"Name": "Rainbow Omega Top Hat",
-							"AbsoluteUrl": "https://www.pekora.zip/Rainbow-Omega-Top-Hat-item?id=489176525",
+							"AbsoluteUrl": "https://www.silrev.biz/Rainbow-Omega-Top-Hat-item?id=489176525",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -1988,7 +1988,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2038,7 +2038,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 489170175,
 							"Name": "Neon Bombastic Animal Hoodie",
-							"AbsoluteUrl": "https://www.pekora.zip/Neon-Bombastic-Animal-Hoodie-item?id=489170175",
+							"AbsoluteUrl": "https://www.silrev.biz/Neon-Bombastic-Animal-Hoodie-item?id=489170175",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2055,7 +2055,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2105,7 +2105,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 489170175,
 							"Name": "Neon Bombastic Animal Hoodie",
-							"AbsoluteUrl": "https://www.pekora.zip/Neon-Bombastic-Animal-Hoodie-item?id=489170175",
+							"AbsoluteUrl": "https://www.silrev.biz/Neon-Bombastic-Animal-Hoodie-item?id=489170175",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2122,7 +2122,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2172,7 +2172,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 427949022,
 							"Name": "Voltron Head",
-							"AbsoluteUrl": "https://www.pekora.zip/Voltron-Head-item?id=427949022",
+							"AbsoluteUrl": "https://www.silrev.biz/Voltron-Head-item?id=427949022",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2189,7 +2189,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2239,7 +2239,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 439315202,
 							"Name": "Flintstones Car",
-							"AbsoluteUrl": "https://www.pekora.zip/Flintstones-Car-item?id=439315202",
+							"AbsoluteUrl": "https://www.silrev.biz/Flintstones-Car-item?id=439315202",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2256,7 +2256,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2306,7 +2306,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 456226220,
 							"Name": "Galaxy Adventurer",
-							"AbsoluteUrl": "https://www.pekora.zip/Galaxy-Adventurer-item?id=456226220",
+							"AbsoluteUrl": "https://www.silrev.biz/Galaxy-Adventurer-item?id=456226220",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2323,7 +2323,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2373,7 +2373,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 334661971,
 							"Name": "ROBLOX Visor",
-							"AbsoluteUrl": "https://www.pekora.zip/ROBLOX-Visor-item?id=334661971",
+							"AbsoluteUrl": "https://www.silrev.biz/ROBLOX-Visor-item?id=334661971",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2390,7 +2390,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2440,7 +2440,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 425118283,
 							"Name": "2016 Graduation Cap",
-							"AbsoluteUrl": "https://www.pekora.zip/2016-Graduation-Cap-item?id=425118283",
+							"AbsoluteUrl": "https://www.silrev.biz/2016-Graduation-Cap-item?id=425118283",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2457,7 +2457,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2507,7 +2507,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 419231331,
 							"Name": "Hank Hat",
-							"AbsoluteUrl": "https://www.pekora.zip/Hank-Hat-item?id=419231331",
+							"AbsoluteUrl": "https://www.silrev.biz/Hank-Hat-item?id=419231331",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2524,7 +2524,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2574,7 +2574,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 1098274,
 							"Name": "Game Input Device",
-							"AbsoluteUrl": "https://www.pekora.zip/Game-Input-Device-item?id=1098274",
+							"AbsoluteUrl": "https://www.silrev.biz/Game-Input-Device-item?id=1098274",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2591,7 +2591,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2641,7 +2641,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 1048037,
 							"Name": "Bighead",
-							"AbsoluteUrl": "https://www.pekora.zip/Bighead-item?id=1048037",
+							"AbsoluteUrl": "https://www.silrev.biz/Bighead-item?id=1048037",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2658,7 +2658,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2708,7 +2708,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 51353039,
 							"Name": "Bloxxer Cap",
-							"AbsoluteUrl": "https://www.pekora.zip/Bloxxer-Cap-item?id=51353039",
+							"AbsoluteUrl": "https://www.silrev.biz/Bloxxer-Cap-item?id=51353039",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2725,7 +2725,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2775,7 +2775,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 10911958,
 							"Name": "WWII Infantry Helmet",
-							"AbsoluteUrl": "https://www.pekora.zip/WWII-Infantry-Helmet-item?id=10911958",
+							"AbsoluteUrl": "https://www.silrev.biz/WWII-Infantry-Helmet-item?id=10911958",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2792,7 +2792,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2842,7 +2842,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 417457461,
 							"Name": "ROBLOX \u0027R\u0027 Baseball Cap",
-							"AbsoluteUrl": "https://www.pekora.zip/ROBLOX-R-Baseball-Cap-item?id=417457461",
+							"AbsoluteUrl": "https://www.silrev.biz/ROBLOX-R-Baseball-Cap-item?id=417457461",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2859,7 +2859,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2909,7 +2909,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 419205215,
 							"Name": "Dory Headphones",
-							"AbsoluteUrl": "https://www.pekora.zip/Dory-Headphones-item?id=419205215",
+							"AbsoluteUrl": "https://www.silrev.biz/Dory-Headphones-item?id=419205215",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2926,7 +2926,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -2976,7 +2976,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 413657233,
 							"Name": "Angry Birds\u0027 Headphones",
-							"AbsoluteUrl": "https://www.pekora.zip/Angry-Birds-Headphones-item?id=413657233",
+							"AbsoluteUrl": "https://www.silrev.biz/Angry-Birds-Headphones-item?id=413657233",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -2993,7 +2993,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3043,7 +3043,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 413657049,
 							"Name": "Angry Birds: Red\u0027s Mask",
-							"AbsoluteUrl": "https://www.pekora.zip/Angry-Birds-Reds-Mask-item?id=413657049",
+							"AbsoluteUrl": "https://www.silrev.biz/Angry-Birds-Reds-Mask-item?id=413657049",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3060,7 +3060,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3110,7 +3110,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 398122137,
 							"Name": "Black Panther?s Mask",
-							"AbsoluteUrl": "https://www.pekora.zip/Black-Panther-s-Mask-item?id=398122137",
+							"AbsoluteUrl": "https://www.silrev.biz/Black-Panther-s-Mask-item?id=398122137",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3127,7 +3127,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3177,7 +3177,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 398122199,
 							"Name": "Iron Man Helmet",
-							"AbsoluteUrl": "https://www.pekora.zip/Iron-Man-Helmet-item?id=398122199",
+							"AbsoluteUrl": "https://www.silrev.biz/Iron-Man-Helmet-item?id=398122199",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3194,7 +3194,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3244,7 +3244,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 398674411,
 							"Name": "Black Iron Antlers",
-							"AbsoluteUrl": "https://www.pekora.zip/Black-Iron-Antlers-item?id=398674411",
+							"AbsoluteUrl": "https://www.silrev.biz/Black-Iron-Antlers-item?id=398674411",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3261,7 +3261,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3311,7 +3311,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 397906657,
 							"Name": "VR Headset",
-							"AbsoluteUrl": "https://www.pekora.zip/VR-Headset-item?id=397906657",
+							"AbsoluteUrl": "https://www.silrev.biz/VR-Headset-item?id=397906657",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3328,7 +3328,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3378,7 +3378,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 383280964,
 							"Name": "Opened Stylist Gift",
-							"AbsoluteUrl": "https://www.pekora.zip/Opened-Stylist-Gift-item?id=383280964",
+							"AbsoluteUrl": "https://www.silrev.biz/Opened-Stylist-Gift-item?id=383280964",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3395,7 +3395,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3445,7 +3445,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 17902820,
 							"Name": "Frost Clan Hillfighter",
-							"AbsoluteUrl": "https://www.pekora.zip/Frost-Clan-Hillfighter-item?id=17902820",
+							"AbsoluteUrl": "https://www.silrev.biz/Frost-Clan-Hillfighter-item?id=17902820",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3462,7 +3462,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3512,7 +3512,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 394182865,
 							"Name": "ROBLOX 10th Anniversary Party Hat",
-							"AbsoluteUrl": "https://www.pekora.zip/ROBLOX-10th-Anniversary-Party-Hat-item?id=394182865",
+							"AbsoluteUrl": "https://www.silrev.biz/ROBLOX-10th-Anniversary-Party-Hat-item?id=394182865",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3529,7 +3529,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3579,7 +3579,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 394182979,
 							"Name": "ROBLOX 10th Anniversary Top Hat",
-							"AbsoluteUrl": "https://www.pekora.zip/ROBLOX-10th-Anniversary-Top-Hat-item?id=394182979",
+							"AbsoluteUrl": "https://www.silrev.biz/ROBLOX-10th-Anniversary-Top-Hat-item?id=394182979",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3596,7 +3596,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3646,7 +3646,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 391934091,
 							"Name": "DIY Deadly Dark Dominus",
-							"AbsoluteUrl": "https://www.pekora.zip/DIY-Deadly-Dark-Dominus-item?id=391934091",
+							"AbsoluteUrl": "https://www.silrev.biz/DIY-Deadly-Dark-Dominus-item?id=391934091",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3663,7 +3663,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3713,7 +3713,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 391854055,
 							"Name": "Fool Baseball Cap 2016",
-							"AbsoluteUrl": "https://www.pekora.zip/Fool-Baseball-Cap-2016-item?id=391854055",
+							"AbsoluteUrl": "https://www.silrev.biz/Fool-Baseball-Cap-2016-item?id=391854055",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3730,7 +3730,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3780,7 +3780,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 44113968,
 							"Name": "Kuddle E. Koala",
-							"AbsoluteUrl": "https://www.pekora.zip/Kuddle-E-Koala-item?id=44113968",
+							"AbsoluteUrl": "https://www.silrev.biz/Kuddle-E-Koala-item?id=44113968",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3797,7 +3797,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3847,7 +3847,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 23220518,
 							"Name": "Lua Cap",
-							"AbsoluteUrl": "https://www.pekora.zip/Lua-Cap-item?id=23220518",
+							"AbsoluteUrl": "https://www.silrev.biz/Lua-Cap-item?id=23220518",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3864,7 +3864,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3914,7 +3914,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380566976,
 							"Name": "Tabby Egg",
-							"AbsoluteUrl": "https://www.pekora.zip/Tabby-Egg-item?id=380566976",
+							"AbsoluteUrl": "https://www.silrev.biz/Tabby-Egg-item?id=380566976",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3931,7 +3931,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -3981,7 +3981,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380566339,
 							"Name": "Eggmin",
-							"AbsoluteUrl": "https://www.pekora.zip/Eggmin-item?id=380566339",
+							"AbsoluteUrl": "https://www.silrev.biz/Eggmin-item?id=380566339",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -3998,7 +3998,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4048,7 +4048,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380571402,
 							"Name": "Gooey Egg",
-							"AbsoluteUrl": "https://www.pekora.zip/Gooey-Egg-item?id=380571402",
+							"AbsoluteUrl": "https://www.silrev.biz/Gooey-Egg-item?id=380571402",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -4065,7 +4065,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4115,7 +4115,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380570229,
 							"Name": "Scribbled Egg",
-							"AbsoluteUrl": "https://www.pekora.zip/Scribbled-Egg-item?id=380570229",
+							"AbsoluteUrl": "https://www.silrev.biz/Scribbled-Egg-item?id=380570229",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -4132,7 +4132,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4182,7 +4182,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380569757,
 							"Name": "Normal Egg",
-							"AbsoluteUrl": "https://www.pekora.zip/Normal-Egg-item?id=380569757",
+							"AbsoluteUrl": "https://www.silrev.biz/Normal-Egg-item?id=380569757",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -4199,7 +4199,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4249,7 +4249,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380567134,
 							"Name": "Dicey Egg of Chance",
-							"AbsoluteUrl": "https://www.pekora.zip/Dicey-Egg-of-Chance-item?id=380567134",
+							"AbsoluteUrl": "https://www.silrev.biz/Dicey-Egg-of-Chance-item?id=380567134",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -4266,7 +4266,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4316,7 +4316,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380566768,
 							"Name": "Basket of Eggception",
-							"AbsoluteUrl": "https://www.pekora.zip/Basket-of-Eggception-item?id=380566768",
+							"AbsoluteUrl": "https://www.silrev.biz/Basket-of-Eggception-item?id=380566768",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -4333,7 +4333,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4383,7 +4383,7 @@ function testHttpGet(name, args)
 						"Item": {
 							"AssetId": 380570824,
 							"Name": "Cherry Nesting Egg",
-							"AbsoluteUrl": "https://www.pekora.zip/Cherry-Nesting-Egg-item?id=380570824",
+							"AbsoluteUrl": "https://www.silrev.biz/Cherry-Nesting-Egg-item?id=380570824",
 							"AssetType": 0,
 							"AssetTypeFriendlyLabel": null,
 							"Description": null,
@@ -4400,7 +4400,7 @@ function testHttpGet(name, args)
 							"Id": 1,
 							"Name": "ROBLOX",
 							"Type": 1,
-							"CreatorProfileLink": "https://www.pekora.zip/users/1/profile/"
+							"CreatorProfileLink": "https://www.silrev.biz/users/1/profile/"
 						},
 						"Product": {
 							"Id": 0,
@@ -4444,7 +4444,7 @@ function testHttpGet(name, args)
 				}
 			}]]
 			-- BREAKBREAKBREAK
-			do return [[{"IsValid":true,"Data":{"TotalItems":null,"Start":0,"End":24,"Page":1,"nextPageCursor":"2133276014_1_4a5d964f9c6fcc24c6c5c6c379da04d1","previousPageCursor":null,"ItemsPerPage":25,"PageType":"inventory","Items":[{"AssetRestrictionIcon":null,"Item":{"AssetId":325758823,"Name":"Bigfoot Boarder Right Arm","AbsoluteUrl":"https://www.pekora.zip/Bigfoot-Boarder-Right-Arm-item?id=325758823","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/2f6a627c5db57c95016fe009e05e225e","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":478705536,"Name":"All-Seeing Golem Right Arm","AbsoluteUrl":"https://www.pekora.zip/All-Seeing-Golem-Right-Arm-item?id=478705536","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/35e9877a3466f03479a752efc7c8dbfb","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":121946611,"Name":"Bombo Right Arm","AbsoluteUrl":"https://www.pekora.zip/Bombo-Right-Arm-item?id=121946611","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/526a893f14085dbe3bb4c21bb7b6e0a4","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":420162092,"Name":"Crimson Claw The Vengeful Right Arm","AbsoluteUrl":"https://www.pekora.zip/Crimson-Claw-The-Vengeful-Right-Arm-item?id=420162092","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/91363b8a8a67202208c44709a5b407c8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":134111188,"Name":"Dragon Hunter Right Arm","AbsoluteUrl":"https://www.pekora.zip/Dragon-Hunter-Right-Arm-item?id=134111188","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/76a7ededf4a2d7e839909ef467277857","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":277961619,"Name":"Lt. Maverick Scout Right Arm","AbsoluteUrl":"https://www.pekora.zip/Lt-Maverick-Scout-Right-Arm-item?id=277961619","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/463e6b40b2d48314af03a3a38f9e383e","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":376531012,"Name":"ROBLOX Boy Right Arm","AbsoluteUrl":"https://www.pekora.zip/ROBLOX-Boy-Right-Arm-item?id=376531012","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/99dc62a23e3b355a4626ec5aecf84e8c","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":376547341,"Name":"ROBLOX Girl Right Arm","AbsoluteUrl":"https://www.pekora.zip/ROBLOX-Girl-Right-Arm-item?id=376547341","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/fa886f361dbd518213beeeb6706b33b6","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":{"TooltipText":null,"CssTag":null,"LoadAssetRestrictionIconCss":true,"HasTooltip":false},"Item":{"AssetId":293282026,"Name":"Adventurous Archer of the Forbidden Forest Right A","AbsoluteUrl":"https://www.pekora.zip/Adventurous-Archer-of-the-Forbidden-Forest-Right-A-item?id=293282026","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":{"Id":0,"PriceInRobux":null,"PriceInTickets":null,"IsForSale":false,"IsPublicDomain":false,"IsResellable":false,"IsLimited":false,"IsLimitedUnique":false,"SerialNumber":null,"IsRental":false,"RentalDurationInHours":0,"BcRequirement":0,"TotalPrivateSales":0,"SellerId":0,"SellerName":null,"LowestPrivateSaleUserAssetId":null,"IsXboxExclusiveItem":false,"OffsaleDeadline":null,"NoPriceText":"Offsale"},"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/254aa86e51e71387d30038f329773477","RetryUrl":"","IsApproved":false},"UserItem":{"UserAsset":null,"IsItemOwned":false,"ItemOwnedCount":0,"IsRentalExpired":false,"IsItemCurrentlyRented":false,"CanUserBuyItem":false,"RentalExpireTime":null,"CanUserRentItem":false}},{"AssetRestrictionIcon":null,"Item":{"AssetId":293284083,"Name":"Lion Knight Right Arm","AbsoluteUrl":"https://www.pekora.zip/Lion-Knight-Right-Arm-item?id=293284083","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t7.rbxcdn.com/17041c86b692f932bbfeca5e913cb194","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":346688977,"Name":"Redcliff Rogue Right Arm","AbsoluteUrl":"https://www.pekora.zip/Redcliff-Rogue-Right-Arm-item?id=346688977","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/0071c697d9f4be44e64223b6a62154e8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":343615010,"Name":"Rouge Space Assassin Right Arm","AbsoluteUrl":"https://www.pekora.zip/Rouge-Space-Assassin-Right-Arm-item?id=343615010","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/bf59dae87d9d6763800bae4178c04d3e","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":323478259,"Name":"Andromeda Explorer Right Arm","AbsoluteUrl":"https://www.pekora.zip/Andromeda-Explorer-Right-Arm-item?id=323478259","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/93f0b9efe519aadd37c8ae55c0d1bd2a","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":315617411,"Name":"Creature From the Blox Lagoon Right Arm","AbsoluteUrl":"https://www.pekora.zip/Creature-From-the-Blox-Lagoon-Right-Arm-item?id=315617411","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/b0594bb5a84ac3824fac9b7e11c0140c","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":{"TooltipText":null,"CssTag":null,"LoadAssetRestrictionIconCss":true,"HasTooltip":false},"Item":{"AssetId":319644079,"Name":"Disenchanted Korblox Squire Right Arm","AbsoluteUrl":"https://www.pekora.zip/Disenchanted-Korblox-Squire-Right-Arm-item?id=319644079","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":{"Id":0,"PriceInRobux":null,"PriceInTickets":null,"IsForSale":false,"IsPublicDomain":false,"IsResellable":false,"IsLimited":false,"IsLimitedUnique":false,"SerialNumber":null,"IsRental":false,"RentalDurationInHours":0,"BcRequirement":0,"TotalPrivateSales":0,"SellerId":0,"SellerName":null,"LowestPrivateSaleUserAssetId":null,"IsXboxExclusiveItem":false,"OffsaleDeadline":null,"NoPriceText":"Offsale"},"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/f946f9a9ed6b66052ce5446fce2233e5","RetryUrl":"","IsApproved":false},"UserItem":{"UserAsset":null,"IsItemOwned":false,"ItemOwnedCount":0,"IsRentalExpired":false,"IsItemCurrentlyRented":false,"CanUserBuyItem":false,"RentalExpireTime":null,"CanUserRentItem":false}},{"AssetRestrictionIcon":null,"Item":{"AssetId":117543412,"Name":"Rubyhorde the Rapacious Right Arm","AbsoluteUrl":"https://www.pekora.zip/Rubyhorde-the-Rapacious-Right-Arm-item?id=117543412","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/529b20d882f6afee2a02fbac9e5ebfec","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":{"TooltipText":null,"CssTag":null,"LoadAssetRestrictionIconCss":true,"HasTooltip":false},"Item":{"AssetId":241558158,"Name":"Golden Suit of Bling Squared Right Arm","AbsoluteUrl":"https://www.pekora.zip/Golden-Suit-of-Bling-Squared-Right-Arm-item?id=241558158","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":{"Id":0,"PriceInRobux":null,"PriceInTickets":null,"IsForSale":false,"IsPublicDomain":false,"IsResellable":false,"IsLimited":false,"IsLimitedUnique":false,"SerialNumber":null,"IsRental":false,"RentalDurationInHours":0,"BcRequirement":0,"TotalPrivateSales":0,"SellerId":0,"SellerName":null,"LowestPrivateSaleUserAssetId":null,"IsXboxExclusiveItem":false,"OffsaleDeadline":null,"NoPriceText":"Offsale"},"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/f19f464216df88a8754adf6a230babc2","RetryUrl":"","IsApproved":false},"UserItem":{"UserAsset":null,"IsItemOwned":false,"ItemOwnedCount":0,"IsRentalExpired":false,"IsItemCurrentlyRented":false,"CanUserBuyItem":false,"RentalExpireTime":null,"CanUserRentItem":false}},{"AssetRestrictionIcon":null,"Item":{"AssetId":111514642,"Name":"Orinthian Soldier Right Arm","AbsoluteUrl":"https://www.pekora.zip/Orinthian-Soldier-Right-Arm-item?id=111514642","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/3b2fbacb78dbb7355232c3ffaacd90c8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":223825145,"Name":"Korblox Lord of Death Right Arm","AbsoluteUrl":"https://www.pekora.zip/Korblox-Lord-of-Death-Right-Arm-item?id=223825145","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/ef5dc80e9587cb6761ce45d409385bd8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":196239551,"Name":"Korblox Hunter Right Arm","AbsoluteUrl":"https://www.pekora.zip/Korblox-Hunter-Right-Arm-item?id=196239551","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/4158b9292430d0cfb2f82c4d8c60d5f0","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":193700282,"Name":"Circuit Breaker Right Arm","AbsoluteUrl":"https://www.pekora.zip/Circuit-Breaker-Right-Arm-item?id=193700282","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/aac5d095fc235425acda9e6f10ee5f95","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":188835327,"Name":"Captain Skeledeath Right Arm","AbsoluteUrl":"https://www.pekora.zip/Captain-Skeledeath-Right-Arm-item?id=188835327","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t0.rbxcdn.com/0fbcec668200182a2d984d503b915b64","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":151796782,"Name":"Neon Party Guy - Right Arm","AbsoluteUrl":"https://www.pekora.zip/Neon-Party-Guy-Right-Arm-item?id=151796782","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/c863705ff5a669331775279023dbae1b","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":187996167,"Name":"Snow Queen Right Arm","AbsoluteUrl":"https://www.pekora.zip/Snow-Queen-Right-Arm-item?id=187996167","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/802a2eec11f66ddcc62a5b9001a25751","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":91657884,"Name":"Red Futurion Right Arm","AbsoluteUrl":"https://www.pekora.zip/Red-Futurion-Right-Arm-item?id=91657884","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.pekora.zip/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t7.rbxcdn.com/d9e07b237382e64729cfd79267412772","RetryUrl":"","IsApproved":false},"UserItem":null}]}}]]
+			do return [[{"IsValid":true,"Data":{"TotalItems":null,"Start":0,"End":24,"Page":1,"nextPageCursor":"2133276014_1_4a5d964f9c6fcc24c6c5c6c379da04d1","previousPageCursor":null,"ItemsPerPage":25,"PageType":"inventory","Items":[{"AssetRestrictionIcon":null,"Item":{"AssetId":325758823,"Name":"Bigfoot Boarder Right Arm","AbsoluteUrl":"https://www.silrev.biz/Bigfoot-Boarder-Right-Arm-item?id=325758823","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/2f6a627c5db57c95016fe009e05e225e","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":478705536,"Name":"All-Seeing Golem Right Arm","AbsoluteUrl":"https://www.silrev.biz/All-Seeing-Golem-Right-Arm-item?id=478705536","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/35e9877a3466f03479a752efc7c8dbfb","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":121946611,"Name":"Bombo Right Arm","AbsoluteUrl":"https://www.silrev.biz/Bombo-Right-Arm-item?id=121946611","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/526a893f14085dbe3bb4c21bb7b6e0a4","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":420162092,"Name":"Crimson Claw The Vengeful Right Arm","AbsoluteUrl":"https://www.silrev.biz/Crimson-Claw-The-Vengeful-Right-Arm-item?id=420162092","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/91363b8a8a67202208c44709a5b407c8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":134111188,"Name":"Dragon Hunter Right Arm","AbsoluteUrl":"https://www.silrev.biz/Dragon-Hunter-Right-Arm-item?id=134111188","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/76a7ededf4a2d7e839909ef467277857","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":277961619,"Name":"Lt. Maverick Scout Right Arm","AbsoluteUrl":"https://www.silrev.biz/Lt-Maverick-Scout-Right-Arm-item?id=277961619","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/463e6b40b2d48314af03a3a38f9e383e","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":376531012,"Name":"ROBLOX Boy Right Arm","AbsoluteUrl":"https://www.silrev.biz/ROBLOX-Boy-Right-Arm-item?id=376531012","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/99dc62a23e3b355a4626ec5aecf84e8c","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":376547341,"Name":"ROBLOX Girl Right Arm","AbsoluteUrl":"https://www.silrev.biz/ROBLOX-Girl-Right-Arm-item?id=376547341","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/fa886f361dbd518213beeeb6706b33b6","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":{"TooltipText":null,"CssTag":null,"LoadAssetRestrictionIconCss":true,"HasTooltip":false},"Item":{"AssetId":293282026,"Name":"Adventurous Archer of the Forbidden Forest Right A","AbsoluteUrl":"https://www.silrev.biz/Adventurous-Archer-of-the-Forbidden-Forest-Right-A-item?id=293282026","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":{"Id":0,"PriceInRobux":null,"PriceInTickets":null,"IsForSale":false,"IsPublicDomain":false,"IsResellable":false,"IsLimited":false,"IsLimitedUnique":false,"SerialNumber":null,"IsRental":false,"RentalDurationInHours":0,"BcRequirement":0,"TotalPrivateSales":0,"SellerId":0,"SellerName":null,"LowestPrivateSaleUserAssetId":null,"IsXboxExclusiveItem":false,"OffsaleDeadline":null,"NoPriceText":"Offsale"},"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/254aa86e51e71387d30038f329773477","RetryUrl":"","IsApproved":false},"UserItem":{"UserAsset":null,"IsItemOwned":false,"ItemOwnedCount":0,"IsRentalExpired":false,"IsItemCurrentlyRented":false,"CanUserBuyItem":false,"RentalExpireTime":null,"CanUserRentItem":false}},{"AssetRestrictionIcon":null,"Item":{"AssetId":293284083,"Name":"Lion Knight Right Arm","AbsoluteUrl":"https://www.silrev.biz/Lion-Knight-Right-Arm-item?id=293284083","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t7.rbxcdn.com/17041c86b692f932bbfeca5e913cb194","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":346688977,"Name":"Redcliff Rogue Right Arm","AbsoluteUrl":"https://www.silrev.biz/Redcliff-Rogue-Right-Arm-item?id=346688977","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/0071c697d9f4be44e64223b6a62154e8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":343615010,"Name":"Rouge Space Assassin Right Arm","AbsoluteUrl":"https://www.silrev.biz/Rouge-Space-Assassin-Right-Arm-item?id=343615010","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/bf59dae87d9d6763800bae4178c04d3e","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":323478259,"Name":"Andromeda Explorer Right Arm","AbsoluteUrl":"https://www.silrev.biz/Andromeda-Explorer-Right-Arm-item?id=323478259","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t3.rbxcdn.com/93f0b9efe519aadd37c8ae55c0d1bd2a","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":315617411,"Name":"Creature From the Blox Lagoon Right Arm","AbsoluteUrl":"https://www.silrev.biz/Creature-From-the-Blox-Lagoon-Right-Arm-item?id=315617411","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/b0594bb5a84ac3824fac9b7e11c0140c","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":{"TooltipText":null,"CssTag":null,"LoadAssetRestrictionIconCss":true,"HasTooltip":false},"Item":{"AssetId":319644079,"Name":"Disenchanted Korblox Squire Right Arm","AbsoluteUrl":"https://www.silrev.biz/Disenchanted-Korblox-Squire-Right-Arm-item?id=319644079","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":{"Id":0,"PriceInRobux":null,"PriceInTickets":null,"IsForSale":false,"IsPublicDomain":false,"IsResellable":false,"IsLimited":false,"IsLimitedUnique":false,"SerialNumber":null,"IsRental":false,"RentalDurationInHours":0,"BcRequirement":0,"TotalPrivateSales":0,"SellerId":0,"SellerName":null,"LowestPrivateSaleUserAssetId":null,"IsXboxExclusiveItem":false,"OffsaleDeadline":null,"NoPriceText":"Offsale"},"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t2.rbxcdn.com/f946f9a9ed6b66052ce5446fce2233e5","RetryUrl":"","IsApproved":false},"UserItem":{"UserAsset":null,"IsItemOwned":false,"ItemOwnedCount":0,"IsRentalExpired":false,"IsItemCurrentlyRented":false,"CanUserBuyItem":false,"RentalExpireTime":null,"CanUserRentItem":false}},{"AssetRestrictionIcon":null,"Item":{"AssetId":117543412,"Name":"Rubyhorde the Rapacious Right Arm","AbsoluteUrl":"https://www.silrev.biz/Rubyhorde-the-Rapacious-Right-Arm-item?id=117543412","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/529b20d882f6afee2a02fbac9e5ebfec","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":{"TooltipText":null,"CssTag":null,"LoadAssetRestrictionIconCss":true,"HasTooltip":false},"Item":{"AssetId":241558158,"Name":"Golden Suit of Bling Squared Right Arm","AbsoluteUrl":"https://www.silrev.biz/Golden-Suit-of-Bling-Squared-Right-Arm-item?id=241558158","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":{"Id":0,"PriceInRobux":null,"PriceInTickets":null,"IsForSale":false,"IsPublicDomain":false,"IsResellable":false,"IsLimited":false,"IsLimitedUnique":false,"SerialNumber":null,"IsRental":false,"RentalDurationInHours":0,"BcRequirement":0,"TotalPrivateSales":0,"SellerId":0,"SellerName":null,"LowestPrivateSaleUserAssetId":null,"IsXboxExclusiveItem":false,"OffsaleDeadline":null,"NoPriceText":"Offsale"},"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/f19f464216df88a8754adf6a230babc2","RetryUrl":"","IsApproved":false},"UserItem":{"UserAsset":null,"IsItemOwned":false,"ItemOwnedCount":0,"IsRentalExpired":false,"IsItemCurrentlyRented":false,"CanUserBuyItem":false,"RentalExpireTime":null,"CanUserRentItem":false}},{"AssetRestrictionIcon":null,"Item":{"AssetId":111514642,"Name":"Orinthian Soldier Right Arm","AbsoluteUrl":"https://www.silrev.biz/Orinthian-Soldier-Right-Arm-item?id=111514642","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/3b2fbacb78dbb7355232c3ffaacd90c8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":223825145,"Name":"Korblox Lord of Death Right Arm","AbsoluteUrl":"https://www.silrev.biz/Korblox-Lord-of-Death-Right-Arm-item?id=223825145","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t1.rbxcdn.com/ef5dc80e9587cb6761ce45d409385bd8","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":196239551,"Name":"Korblox Hunter Right Arm","AbsoluteUrl":"https://www.silrev.biz/Korblox-Hunter-Right-Arm-item?id=196239551","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/4158b9292430d0cfb2f82c4d8c60d5f0","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":193700282,"Name":"Circuit Breaker Right Arm","AbsoluteUrl":"https://www.silrev.biz/Circuit-Breaker-Right-Arm-item?id=193700282","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/aac5d095fc235425acda9e6f10ee5f95","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":188835327,"Name":"Captain Skeledeath Right Arm","AbsoluteUrl":"https://www.silrev.biz/Captain-Skeledeath-Right-Arm-item?id=188835327","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t0.rbxcdn.com/0fbcec668200182a2d984d503b915b64","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":151796782,"Name":"Neon Party Guy - Right Arm","AbsoluteUrl":"https://www.silrev.biz/Neon-Party-Guy-Right-Arm-item?id=151796782","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t6.rbxcdn.com/c863705ff5a669331775279023dbae1b","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":187996167,"Name":"Snow Queen Right Arm","AbsoluteUrl":"https://www.silrev.biz/Snow-Queen-Right-Arm-item?id=187996167","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t4.rbxcdn.com/802a2eec11f66ddcc62a5b9001a25751","RetryUrl":"","IsApproved":false},"UserItem":null},{"AssetRestrictionIcon":null,"Item":{"AssetId":91657884,"Name":"Red Futurion Right Arm","AbsoluteUrl":"https://www.silrev.biz/Red-Futurion-Right-Arm-item?id=91657884","AssetType":0,"AssetTypeFriendlyLabel":null,"Description":null,"Genres":null,"GearAttributes":null,"AssetCategory":0,"CurrentVersionId":0,"IsApproved":false,"LastUpdated":"\/Date(-62135575200000)\/","LastUpdatedBy":null,"AudioUrl":null},"Creator":{"Id":1,"Name":"ROBLOX","Type":1,"CreatorProfileLink":"https://www.silrev.biz/users/1/profile/"},"Product":null,"PrivateServer":null,"Thumbnail":{"Final":true,"Url":"https://t7.rbxcdn.com/d9e07b237382e64729cfd79267412772","RetryUrl":"","IsApproved":false},"UserItem":null}]}}]]
 
 			end
 			all = httpService:JSONDecode(sample)

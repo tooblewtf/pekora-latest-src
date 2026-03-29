@@ -131,7 +131,7 @@ if isTenFootInterface then
   TEXT_STROKE_TRANSPARENCY = 1
   TILE_SPACING = 5
 end
-local SHADOW_IMAGE = 'rbxasset://textures/ui/PlayerList/TileShadowMissingTop.png'--'http://www.pekora.zip/asset?id=286965900'
+local SHADOW_IMAGE = 'rbxasset://textures/ui/PlayerList/TileShadowMissingTop.png'--'http://www.silrev.biz/asset?id=286965900'
 local SHADOW_SLICE_SIZE = 5
 local SHADOW_SLICE_RECT = Rect.new(SHADOW_SLICE_SIZE+1, SHADOW_SLICE_SIZE+1, SHADOW_SLICE_SIZE*2-1, SHADOW_SLICE_SIZE*2-1)
 

@@ -1,4 +1,4 @@
-<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.pekora.zip/roblox.xsd" version="4">
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.silrev.biz/roblox.xsd" version="4">
 	<External>null</External>
 	<External>nil</External>
 	<Item class="Model" referent="RBXD2DDAC7CEEC64FC39120365C8682879B">
@@ -160,7 +160,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532219986</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532219986</url></Content>
 				<string name="Name">LeftHand</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -279,7 +279,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532219991</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532219991</url></Content>
 				<string name="Name">LeftLowerArm</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -398,7 +398,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532219996</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532219996</url></Content>
 				<string name="Name">LeftUpperArm</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -537,7 +537,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532219997</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532219997</url></Content>
 				<string name="Name">RightHand</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -656,7 +656,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532219999</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532219999</url></Content>
 				<string name="Name">RightLowerArm</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -775,7 +775,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220004</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220004</url></Content>
 				<string name="Name">RightUpperArm</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -914,7 +914,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220007</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220007</url></Content>
 				<string name="Name">UpperTorso</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1173,7 +1173,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220012</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220012</url></Content>
 				<string name="Name">LeftFoot</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1272,7 +1272,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220017</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220017</url></Content>
 				<string name="Name">LeftLowerLeg</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1391,7 +1391,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220018</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220018</url></Content>
 				<string name="Name">LeftUpperLeg</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1510,7 +1510,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220020</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220020</url></Content>
 				<string name="Name">RightFoot</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1609,7 +1609,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220027</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220027</url></Content>
 				<string name="Name">RightLowerLeg</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1728,7 +1728,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220031</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220031</url></Content>
 				<string name="Name">RightUpperLeg</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>
@@ -1847,7 +1847,7 @@
 				<token name="LeftSurfaceInput">0</token>
 				<bool name="Locked">false</bool>
 				<token name="Material">256</token>
-				<Content name="MeshID"><url>http://www.pekora.zip/asset/?id=532220036</url></Content>
+				<Content name="MeshID"><url>http://www.silrev.biz/asset/?id=532220036</url></Content>
 				<string name="Name">LowerTorso</string>
 				<BinaryString name="PhysicsData"></BinaryString>
 				<float name="Reflectance">0</float>

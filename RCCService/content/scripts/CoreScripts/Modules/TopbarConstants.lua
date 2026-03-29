@@ -29,7 +29,7 @@ TopbarConstants.HEALTH_GREEN_COLOR = Color3.new(27/255, 252/255, 107/255)
 
 TopbarConstants.HEALTH_PERCANTAGE_FOR_OVERLAY = 5 / 100
 
-TopbarConstants.HURT_OVERLAY_IMAGE = "https://www.pekora.zip/asset/?id=34854607"
+TopbarConstants.HURT_OVERLAY_IMAGE = "https://www.silrev.biz/asset/?id=34854607"
 
 TopbarConstants.DEBOUNCE_TIME = 0.25
 

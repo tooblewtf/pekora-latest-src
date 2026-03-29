@@ -126,7 +126,7 @@ const CatalogPageResults = props => {
     
     const getTitle = () => {
         if (store.category === 'Featured') {
-            return <h1 className={s.pageTitle}>Featured Items on Pekora</h1>;
+            return <h1 className={s.pageTitle}>Featured Items on Marine</h1>;
         }
         let title = getDisplayNameForCombination(store.category, store.subCategory);
         const currentOffset = Math.trunc(store.page / store.limit + 1) || 0;

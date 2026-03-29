@@ -2,7 +2,7 @@ local jobId = "InsertJobIdHere";
 local assetId = 65789275746246;
 local assetType = 358843;
 local mode = "R6";
-local baseURL = "http://pekora.zip";
+local baseURL = "http://silrev.biz";
 local uploadURL = "UPLOAD_URL_HERE";
 local ScriptContext = game:GetService("ScriptContext");
 local Lighting = game:GetService('Lighting');
@@ -16,7 +16,7 @@ game:GetService('ThumbnailGenerator').GraphicsMode = 2;
 HttpService.HttpEnabled = true;
 ScriptContext.ScriptsDisabled = true
 Lighting.Outlines = false
-ContentProvider:SetBaseUrl('http://www.pekora.zip')
+ContentProvider:SetBaseUrl('http://www.silrev.biz')
 print(ContentProvider.BaseUrl)
 game:GetService("ContentProvider"):SetAssetUrl(baseURL .. "/Asset/")
 game:GetService("InsertService"):SetAssetUrl(baseURL .. "/Asset/?id=%d")

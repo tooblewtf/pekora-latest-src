@@ -6,7 +6,7 @@
 	const itemRbFooter = `We realize you may not have been aware of how these items were originally made available and in such cases, no further moderation action will be placed on your account. However, please be aware that any willful participation in account theft, phishing, or other serious Terms of Service violations, will result in the termination of the associated accounts.
 Thank you,
 
--The Pekora Team`;
+-The Marine Team`;
 	export let userId: string;
 	const autofill: { name: string; subject: string; placeholders: string[]; message: string }[] = [
 		{
@@ -49,7 +49,7 @@ The prize has already been awarded to your account, so you do not have to do any
 
 Thank you,
 
-- The Pekora Team`,
+- The Marine Team`,
 		},
 	];
 

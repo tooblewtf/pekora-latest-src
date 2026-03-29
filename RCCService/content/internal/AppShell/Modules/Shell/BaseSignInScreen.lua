@@ -20,7 +20,7 @@ local Utility = require(ShellModules:FindFirstChild('Utility'))
 local PlatformService = nil
 pcall(function() PlatformService = game:GetService('PlatformService') end)
 
-local TERMS_OF_SERVICE_URI = "https://en.help.pekora.zip/hc/en-us/articles/205358110"
+local TERMS_OF_SERVICE_URI = "https://en.help.silrev.biz/hc/en-us/articles/205358110"
 
 local function createBaseAccountScreen()
 	local this = BaseScreen()
@@ -170,7 +170,7 @@ local function createBaseAccountScreen()
 		UDim2.new(0, ToSButton.Position.X.Offset + ToSButton.Size.X.Offset + 5,
 			      0, tosButtonY))
 	PrivacyButton.MouseButton1Click:connect(function()
-		TryLaunchUri("http://www.pekora.zip/info/Privacy.aspx")
+		TryLaunchUri("http://www.silrev.biz/info/Privacy.aspx")
 	end)
 --]]
 

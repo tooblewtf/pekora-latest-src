@@ -20,8 +20,8 @@ local CoreGuiModules = RobloxGui:WaitForChild("Modules")
 local PromptCreator = require(CoreGuiModules:WaitForChild("PromptCreator"))
 local PlayerDropDownModule = require(CoreGuiModules:WaitForChild("PlayerDropDown"))
 
-local THUMBNAIL_URL = "https://www.pekora.zip/Thumbs/Avatar.ashx?x=200&y=200&format=png&userId="
-local BUST_THUMBNAIL_URL = "https://www.pekora.zip/bust-thumbnail/image?width=420&height=420&format=png&userId="
+local THUMBNAIL_URL = "https://www.silrev.biz/Thumbs/Avatar.ashx?x=200&y=200&format=png&userId="
+local BUST_THUMBNAIL_URL = "https://www.silrev.biz/bust-thumbnail/image?width=420&height=420&format=png&userId="
 
 function SendFriendRequest(playerToFriend)
 	local success = pcall(function()

@@ -1,4 +1,4 @@
-There are many different ways to earn Robux or Tickets in Pekora.
+There are many different ways to earn Robux or Tickets in Marine.
 
 Upgrading your membership (for free!) to Outrageous Builders Club (OBC) or Premium will grant you **85 Robux daily!**
 Click on (this link)[/internal/membership] to change your membership for free!

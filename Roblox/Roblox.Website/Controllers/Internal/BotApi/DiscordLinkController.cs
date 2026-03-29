@@ -30,12 +30,12 @@ namespace Roblox.Website.Controllers
         {
             if (await services.users.IsUserLinked(safeUserSession.userId))
             {
-                return "You have already linked your discord account to Pekora";
+                return "You have already linked your discord account to Marine";
             }
             // if there isnt a code we will redirect it to the oauth link to get the code
             if (code == null)
             {
-                return Redirect($"https://discord.com/oauth2/authorize?client_id={Configuration.DiscordClientId}&response_type=code&redirect_uri={HttpUtility.UrlEncode(Configuration.BaseUrl)}%2Fbot%2Fverify&scope=identify+guilds.members.read+guilds.join");
+                return Redirect($"https://discord.com/oauth2/authorize?client_id={Configuration.DiscordClientId}&response_type=code&redirect_uri={HttpUtility.UrlEncode(Configuration.BaseUrl)}%2Fbot%2Fverify&scope=identify");
             }
             var discordApi = await DiscordApi.CreateFromOAuthCode(code, Configuration.DiscordLinkCallback);
             if (discordApi == null)
@@ -51,8 +51,8 @@ namespace Roblox.Website.Controllers
 
             await services.users.LinkDiscordAccount(userInfo.Id.ToString(), safeUserSession.userId);
             // just incase
-            await services.discordBotApi.AddGuildMember(Configuration.DiscordGuildId, userInfo.Id.ToString(), discordApi.AccessToken);
-            return "You have linked your account to Pekora";
+            // remove addguildmember since now people are suspicious over dat for idk what reason
+            return "You have linked your account to Marine";
         }
     }
 }

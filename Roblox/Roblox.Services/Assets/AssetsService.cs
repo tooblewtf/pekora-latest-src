@@ -3239,25 +3239,13 @@ WHERE asset_type = :asset_type AND asset.id < :id AND NOT asset.is_18_plus ORDER
 
     public readonly Dictionary<string, long> getStarterPlaces = new Dictionary<string, long> 
     {
-        { "Baseplate", 36573 },
-        { "Flat Terrain", 36574 },
-        { "Starting Place", 36568 },
-        { "Western", 36569 },
-        { "Suburban", 36570 },
-        { "Team/FFA Arena", 36571 },
-        { "Capture The Flag", 36572 },
-        //{ "Control Points", 36575 },
-        { "City", 36576 },
-        { "Castle", 36577 },
-        { "Village", 36585 },
-        { "Obby", 36578 },
-        { "Combat", 36579 },
-        { "Racing", 36580 },
-        { "Pirate Island", 36581 },
-        { "Line Runner", 36582 },
-        //{ "Infinite Runner", 36583 },
-        //{ "Free For All", 36584 },
-        //{ "Team Deathmatch", 36590 }
+        { "Starting Place", 119 },
+        { "Baseplate", 112 },
+        { "Classic Baseplate", 114 },
+        { "Classic Obby", 115 },
+        { "Racing", 116 },
+        { "Combat", 117 },
+        { "Castle", 118 }
     };
     
     public bool IsThreadSafe()

@@ -3,25 +3,25 @@ import {v4 as uuidv4} from "uuid";
 export const SOAP = (baseUrl: string, jobExpiration: number, finalScript: string) => {
     // REQUIRES leading slash (for some reason)
     return `
-    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:rob="${baseUrl}">
+    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="${baseUrl}">
    <soapenv:Header/>
    <soapenv:Body>
-      <rob:BatchJob>
-         <rob:job>
-            <rob:id>${uuidv4().toString()}</rob:id>
-            <rob:expirationInSeconds>${jobExpiration}</rob:expirationInSeconds>
-            <rob:cores>1</rob:cores>
-         </rob:job>
-         <rob:script>
-            <rob:name>${uuidv4().toString()}</rob:name>
-            <rob:script><![CDATA[
+      <ns1:BatchJob>
+         <ns1:job>
+            <ns1:id>${uuidv4().toString()}</ns1:id>
+            <ns1:expirationInSeconds>${jobExpiration}</ns1:expirationInSeconds>
+            <ns1:cores>1</ns1:cores>
+         </ns1:job>
+         <ns1:script>
+            <ns1:name>${uuidv4().toString()}</ns1:name>
+            <ns1:script><![CDATA[
                 ${finalScript}
-            ]]></rob:script>
+            ]]></ns1:script>
             ${/*<arguments>
                 {Arguments}
             </arguments>*/null}
-         </rob:script>
-      </rob:BatchJob>
+         </ns1:script>
+      </ns1:BatchJob>
    </soapenv:Body>
 </soapenv:Envelope>
 `;

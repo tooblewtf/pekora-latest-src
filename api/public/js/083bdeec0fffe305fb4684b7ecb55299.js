@@ -725,7 +725,7 @@ Roblox.ShopAmazon = function() {
         window.open(n, "_blank")
     }
     function r() {
-        return "<p>Your are about to visit our amazon store. You will be redirected to ROBLOX merchandise store on <a class='text-link' target='_blank' href='" + n + "' >Amazon.com</a>.</p> <p>Please note that you need to be over 18 to purchase products online. The amazon store is not part of pekora.zip and is governed by a separate privacy policy.</p>"
+        return "<p>Your are about to visit our amazon store. You will be redirected to ROBLOX merchandise store on <a class='text-link' target='_blank' href='" + n + "' >Amazon.com</a>.</p> <p>Please note that you need to be over 18 to purchase products online. The amazon store is not part of silrev.biz and is governed by a separate privacy policy.</p>"
     }
     function u() {
         t()

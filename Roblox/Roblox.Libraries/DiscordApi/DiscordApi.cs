@@ -35,11 +35,14 @@ public class DiscordApi
 
     public static async Task<DiscordApi?> CreateFromOAuthCode(string code, string redirectUri)
     {
+		Writer.Info(LogGroup.DiscordApi, "CreateFromOAuthCode with redirectUri: {0}", redirectUri);
+		
         var api = new DiscordApi(Configuration.DiscordOAuthToken, redirectUri);
         var tokenResponse = await api.RequestAccessToken(code, useRefreshToken: false);
         if (tokenResponse == null)
         {
-            Writer.Info(LogGroup.DiscordApi, "Failed to get access token from code: {0}", code);
+			Writer.Info(LogGroup.DiscordApi, "Failed to get access token from code: {0}", code);
+            Writer.Info(LogGroup.DiscordApi, "RedirectUri at failure: {0}", redirectUri);
             return null;
         }
 

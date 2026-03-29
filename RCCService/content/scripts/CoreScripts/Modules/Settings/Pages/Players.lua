@@ -282,7 +282,7 @@ local function Initialize()
 					table.insert(existingPlayerLabels, index, frame)
 				end
 				frame.Name = 'PlayerLabel'..player.Name
-				frame.Icon.Image = 'https://www.pekora.zip/Thumbs/Avatar.ashx?x=100&y=100&userId='..math.max(1, player.UserId)
+				frame.Icon.Image = 'https://www.silrev.biz/Thumbs/Avatar.ashx?x=100&y=100&userId='..math.max(1, player.UserId)
 				frame.NameLabel.Text = player.Name
 				frame.ImageTransparency = frameDefaultTransparency
 

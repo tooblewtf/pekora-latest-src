@@ -66,7 +66,7 @@ const InstallHelpPage = props => {
     const subpages = [
         {
             id: "create",
-            name: "How to Create a Game on Pekora",
+            name: "How to Create a Game on Marine",
             el: () => <MarkdownContent mdUrl="createGame.md" />,
         },
     ]
@@ -79,12 +79,12 @@ const InstallHelpPage = props => {
                 <ol className={s.breadcrumbs}>
                     <li>
                         <Link href="/help">
-                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help">Pekora Support</a>
+                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help">Marine Support</a>
                         </Link>
                     </li>
                     <li>
                         <Link href="/help/create">
-                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help/create">Creating on Pekora</a>
+                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help/create">Creating on Marine</a>
                         </Link>
                     </li>
                     <li>

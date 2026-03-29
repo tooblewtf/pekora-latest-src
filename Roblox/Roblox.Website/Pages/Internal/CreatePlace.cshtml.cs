@@ -289,7 +289,7 @@ public class CreatePlace : RobloxPageModel
         //     // create universe too
         //     await services.games.CreateUniverse(asset.placeId);
         //     // give url
-        //     successUrl = "https://www.pekora.zip/internal/place-update?id=" + asset.placeId;
+        //     successUrl = "https://www.silrev.biz/internal/place-update?id=" + asset.placeId;
         // 
     // }
 }

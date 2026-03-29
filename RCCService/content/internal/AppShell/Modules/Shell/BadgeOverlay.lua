@@ -32,7 +32,7 @@ local createBadgeOverlay = function(badgeData)
 		Name = "BadgeImage";
 		Size = UDim2.new(0, 394, 0, 394);
 		BackgroundTransparency = 1;
-		Image = 'http://www.pekora.zip/Thumbs/Asset.ashx?width='..
+		Image = 'http://www.silrev.biz/Thumbs/Asset.ashx?width='..
 				tostring(250)..'&height='..tostring(250)..'&assetId='..tostring(badgeData.AssetId);
 	}
 	badgeImage.Position = UDim2.new(0.5, -197, 0.5, -197)

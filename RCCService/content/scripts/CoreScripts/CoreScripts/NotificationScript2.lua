@@ -91,9 +91,9 @@ if friendRequestNotificationFIntSuccess and friendRequestNotificationFIntValue ~
 end
 
 --[[ Images ]]--
-local PLAYER_POINTS_IMG = 'https://www.pekora.zip/asset?id=206410433'
-local BADGE_IMG = 'https://www.pekora.zip/asset?id=206410289'
-local FRIEND_IMAGE = 'https://www.pekora.zip/thumbs/avatar.ashx?userId='
+local PLAYER_POINTS_IMG = 'https://www.silrev.biz/asset?id=206410433'
+local BADGE_IMG = 'https://www.silrev.biz/asset?id=206410289'
+local FRIEND_IMAGE = 'https://www.silrev.biz/thumbs/avatar.ashx?userId='
 
 --[[ Gui Creation ]]--
 local function createFrame(name, size, position, bgt)
@@ -207,7 +207,7 @@ local removeNotification = nil
 
 local function getFriendImage(playerId, size)
 	size = size or 48
-	return ("http://www.pekora.zip/thumbs/avatar.ashx?userId=%d&x=%d&y=%d"):format(playerId, size, size)
+	return ("http://www.silrev.biz/thumbs/avatar.ashx?userId=%d&x=%d&y=%d"):format(playerId, size, size)
 end
 
 --

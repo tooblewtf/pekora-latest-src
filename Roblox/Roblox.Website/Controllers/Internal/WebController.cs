@@ -81,8 +81,7 @@ public class WebController : ControllerBase
         // there is no account tied to the discord id this can either mean they havent linked their account or there is no account made
         catch (RecordNotFoundException)
         {
-            await services.discordBotApi.AddGuildMember(Configuration.DiscordGuildId, userInfo.Id.ToString(), discordApi.AccessToken);
-            return Content("We couldn't find a pekora account relating to this account, we have automatically joined the Pekora discord server for you so you can register an account or link it!");
+            return Content("We couldn't find a Marine account relating to this account, Please link directly from the site!");
         }
 
         // create session
@@ -108,7 +107,7 @@ public class WebController : ControllerBase
     [HttpGetBypass("api/applicationcallback")]
     public async Task<IActionResult> DiscordOAuthCallback(string code)
     {
-        const string key = "PEKORA-DISCORD";
+        const string key = "MARINE-DISCORD";
         // Delete any old sessions
         if (discordAccessToken != null)
         {
@@ -127,7 +126,6 @@ public class WebController : ControllerBase
             return Content("Please try again later");
         }
 
-        await services.discordBotApi.AddGuildMember(Configuration.DiscordGuildId, userInfo.Id.ToString(), discordApi.AccessToken);
         // We store the access token as base64 in a cookie so we can use it later to get the user info
         // This shouldnt be a problem :D
         string base64AccessToken = Convert.ToBase64String(Encoding.UTF8.GetBytes(discordApi.AccessToken));
@@ -554,7 +552,7 @@ public class WebController : ControllerBase
         return new
         {
             joinScriptUrl = bootstrapperArgs,
-            prefix = "pekora-player",
+            prefix = "marine-player",
             retroArgs = args
         };
     }
@@ -576,7 +574,7 @@ public class WebController : ControllerBase
         return new
         {
             joinScriptUrl = bootstrapperArgs,
-            prefix = "pekora-player",
+            prefix = "marine-player",
             retroArgs = args
         };
     }

@@ -74,7 +74,7 @@ local maxNumberOfRecentAssets = 30
 local tapDistanceThreshold = 10	--Defines the maximum allowable distance between input began and ended for input to be considered a tap
 local doubleTapThreshold = .25
 
-local domainUrl = "pekora.zip"	--"sitetest3.robloxlabs.com"
+local domainUrl = "silrev.biz"	--"sitetest3.robloxlabs.com"
 local urlPrefix = "https://inventory."..domainUrl
 local avatarUrlPrefix = "https://avatar."..domainUrl
 local assetImageUrl = "https://www."..domainUrl.."/Thumbs/Asset.ashx?width=110&height=110&assetId="
@@ -84,7 +84,7 @@ local pages = require(modulesParent.PagesInfo)
 local assetTypeNames = require(modulesParent.AssetTypeNames)
 
 --[[
-{	"bodyColorsUrl":"http://assetgame.pekora.zip/Asset/BodyColors.ashx?avatarHash=ce7c94f78b547c26f171bdc7f69f4e7a",
+{	"bodyColorsUrl":"http://assetgame.silrev.biz/Asset/BodyColors.ashx?avatarHash=ce7c94f78b547c26f171bdc7f69f4e7a",
 	"accessoryVersionIds":["76925267"],
 	"equippedGearVersionIds":["27531684"],
 	"backpackGearVersionIds":["27531684","468377669","116509933"],
@@ -1061,7 +1061,7 @@ local detailsMenuCount = 0
 function openDetails(assetId)
 	--[[if isCoreSetup then
 		closeMenu()
-		guiService:OpenBrowserWindow("https://www.pekora.zip/catalog/"..tostring(assetId).."/name")
+		guiService:OpenBrowserWindow("https://www.silrev.biz/catalog/"..tostring(assetId).."/name")
 	else]]
 		detailsMenuCount = detailsMenuCount + 1
 		local myDetailsMenuCount = detailsMenuCount
@@ -1370,13 +1370,13 @@ local function wearOutfit(outfitId)
 end
 
 local function outfitImageFetch(outfitId, attemptNumber)
-	return "https://www.pekora.zip/outfit-thumbnail/image?userOutfitId="..outfitId.."&width=100&height=100&format=png"
+	return "https://www.silrev.biz/outfit-thumbnail/image?userOutfitId="..outfitId.."&width=100&height=100&format=png"
 	--the below code works and is the retry functionality for a working image that we want, but the url handed back does not work for asset images
 	--[[local attemptNumber = (attemptNumber or 0) + 1
 	if attemptNumber > 10 then
 		return 'OutfitFailedToLoad'
 	end
-	local returnString = httpGet("http://www.pekora.zip/Outfit-Thumbnail/Json?userOutfitId="..outfitId.."&width=352&height=352&format=png")
+	local returnString = httpGet("http://www.silrev.biz/Outfit-Thumbnail/Json?userOutfitId="..outfitId.."&width=352&height=352&format=png")
 	if returnString then
 		local returnData = httpService:JSONDecode(returnString)
 		if returnData and returnData.Final then
@@ -1494,7 +1494,7 @@ function loadMoreListContent()
 					local assetButton = renderCard(i, tostring(assetId), assetImageUrl..tostring(assetId), buttonSize, extraVerticalShift * 2 + outfitsVerticalShift)
 					local wearFunction = function()
 						closeMenu()
-						local containingAssetsRaw = httpGet("http://assetgame.pekora.zip/Game/GetAssetIdsForPackageId?packageId="..assetId)
+						local containingAssetsRaw = httpGet("http://assetgame.silrev.biz/Game/GetAssetIdsForPackageId?packageId="..assetId)
 						if containingAssetsRaw then
 							local containingAssets = httpService:JSONDecode(containingAssetsRaw)
 							if containingAssets then

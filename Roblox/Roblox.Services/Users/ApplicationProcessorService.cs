@@ -96,7 +96,7 @@ public class ApplicationProcessorService : ServiceBase, IService
 
             var followers = await api.CountFollowers(userId);
             var friends = await api.CountFriends(userId);
-            var isRichMindset = false; // user is rich/wellknown/other
+            var isRichMindset = false; // user is rich/wellknown/other, don't turn this to true unless it's debugging purposes, this will make every application get accepted
 
             if (followers >= 20000)
             {
@@ -122,7 +122,7 @@ public class ApplicationProcessorService : ServiceBase, IService
                     isRichMindset = true;
             }
             //why u may ask people love them alts.
-            isRichMindset = false;
+            isRichMindset = true;
             // Finally...
             if (isRichMindset)
             {

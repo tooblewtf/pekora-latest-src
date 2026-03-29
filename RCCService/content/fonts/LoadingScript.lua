@@ -46,7 +46,7 @@ local IMAGES = {
 
 	ROBLOX_LOGO_256 = 'rbxasset://textures/loading/robloxlogo.png',
 
-	GAME_THUMBNAIL =  'http://www.pekora.zip/Thumbs/Asset.ashx?format=png&width=420&height=230&assetId=',
+	GAME_THUMBNAIL =  'http://www.silrev.biz/Thumbs/Asset.ashx?format=png&width=420&height=230&assetId=',
 
 	GAME_BACKGROUND = 'rbxasset://textures/loading/loadingTexture.png'
 

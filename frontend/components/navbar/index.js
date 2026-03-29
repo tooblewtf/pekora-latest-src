@@ -12,7 +12,8 @@ import Search from "./components/search";
 const useNavBarStyles = createUseStyles({
   navbar: {
     //backgroundColor: p => p.theme === themeType.obc2016 ? '#393939' : 'var(--primary-color)',
-    backgroundColor: p => p.theme === themeType.obc2016 ? '#393939' : 'var(--secondary-color)',
+    // backgroundColor: p => p.theme === themeType.obc2016 ? '#393939' : 'var(--secondary-color)',
+	backgroundColor: p => p.theme === themeType.obc2016 ? "#393939" : p.theme === themeType.koroneholyfuck67 ? "#85410D" : "var(--secondary-color)",
     paddingTop: '0!important',
     paddingBottom: '0!important',
     display: 'block',

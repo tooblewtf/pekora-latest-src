@@ -1,4 +1,4 @@
-<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.pekora.zip/roblox.xsd" version="4">
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.silrev.biz/roblox.xsd" version="4">
 	<External>null</External>
 	<External>nil</External>
 	<Item class="LocalScript" referent="RBX980D00D6910F408F981BBC8F0BA9B344">
@@ -32,70 +32,70 @@ local runAnimKeyframeHandler = nil
 local animTable = {}
 local animNames = {
 	idle = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507766666", weight = 1 },
-				{ id = "http://www.pekora.zip/asset/?id=507766951", weight = 1 },
-				{ id = "http://www.pekora.zip/asset/?id=507766388", weight = 9 }
+				{ id = "http://www.silrev.biz/asset/?id=507766666", weight = 1 },
+				{ id = "http://www.silrev.biz/asset/?id=507766951", weight = 1 },
+				{ id = "http://www.silrev.biz/asset/?id=507766388", weight = 9 }
 			},
 	walk = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507777826", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507777826", weight = 10 }
 			},
 	run = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507767714", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507767714", weight = 10 }
 			},
 	swim = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507784897", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507784897", weight = 10 }
 			},
 	swimidle = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507785072", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507785072", weight = 10 }
 			},
 	jump = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507765000", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507765000", weight = 10 }
 			},
 	fall = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507767968", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507767968", weight = 10 }
 			},
 	climb = {
-				{ id = "http://www.pekora.zip/asset/?id=507765644", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507765644", weight = 10 }
 			},
 	sit = 	{
-				{ id = "http://www.pekora.zip/asset/?id=507768133", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507768133", weight = 10 }
 			},
 	toolnone = {
-				{ id = "http://www.pekora.zip/asset/?id=507768375", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507768375", weight = 10 }
 			},
 	toolslash = {
-				{ id = "http://www.pekora.zip/asset/?id=507768375", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507768375", weight = 10 }
 --				{ id = "slash.xml", weight = 10 }
 			},
 	toollunge = {
-				{ id = "http://www.pekora.zip/asset/?id=507768375", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507768375", weight = 10 }
 			},
 	wave = {
-				{ id = "http://www.pekora.zip/asset/?id=507770239", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507770239", weight = 10 }
 			},
 	point = {
-				{ id = "http://www.pekora.zip/asset/?id=507770453", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507770453", weight = 10 }
 			},
 	dance = {
-				{ id = "http://www.pekora.zip/asset/?id=507771019", weight = 10 },
-				{ id = "http://www.pekora.zip/asset/?id=507771955", weight = 10 },
-				{ id = "http://www.pekora.zip/asset/?id=507772104", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507771019", weight = 10 },
+				{ id = "http://www.silrev.biz/asset/?id=507771955", weight = 10 },
+				{ id = "http://www.silrev.biz/asset/?id=507772104", weight = 10 }
 			},
 	dance2 = {
-				{ id = "http://www.pekora.zip/asset/?id=507776043", weight = 10 },
-				{ id = "http://www.pekora.zip/asset/?id=507776720", weight = 10 },
-				{ id = "http://www.pekora.zip/asset/?id=507776879", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507776043", weight = 10 },
+				{ id = "http://www.silrev.biz/asset/?id=507776720", weight = 10 },
+				{ id = "http://www.silrev.biz/asset/?id=507776879", weight = 10 }
 			},
 	dance3 = {
-				{ id = "http://www.pekora.zip/asset/?id=507777268", weight = 10 },
-				{ id = "http://www.pekora.zip/asset/?id=507777451", weight = 10 },
-				{ id = "http://www.pekora.zip/asset/?id=507777623", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507777268", weight = 10 },
+				{ id = "http://www.silrev.biz/asset/?id=507777451", weight = 10 },
+				{ id = "http://www.silrev.biz/asset/?id=507777623", weight = 10 }
 			},
 	laugh = {
-				{ id = "http://www.pekora.zip/asset/?id=507770818", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507770818", weight = 10 }
 			},
 	cheer = {
-				{ id = "http://www.pekora.zip/asset/?id=507770677", weight = 10 }
+				{ id = "http://www.silrev.biz/asset/?id=507770677", weight = 10 }
 			},
 }
 
@@ -609,7 +609,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXD74196C64A4A414E85E1862FB322BCAC">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507765644</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507765644</url></Content>
 					<string name="Name">ClimbAnim</string>
 				</Properties>
 			</Item>
@@ -621,7 +621,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX031D73ED004E4A33927224B4919609F0">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507767968</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507767968</url></Content>
 					<string name="Name">FallAnim</string>
 				</Properties>
 			</Item>
@@ -633,7 +633,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX1D83AA3674B5426E917DE58F21AD87B6">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507766388</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507766388</url></Content>
 					<string name="Name">Animation1</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBXC51E8CA58EBB4E2FBE6C29AC7CB459EA">
@@ -645,7 +645,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBX370A7EC91BE94BFEA920D6DD82B5DBBD">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507766666</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507766666</url></Content>
 					<string name="Name">Animation2</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBX558D7AA1389F4C6F8DE31F704F8C4575">
@@ -663,7 +663,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX2EC0C03F466D4763B69F30C89FCF2B47">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507765000</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507765000</url></Content>
 					<string name="Name">JumpAnim</string>
 				</Properties>
 			</Item>
@@ -675,7 +675,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX658DCBD687FC42AAB1FCF76F46730A8C">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507767714</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507767714</url></Content>
 					<string name="Name">RunAnim</string>
 				</Properties>
 			</Item>
@@ -687,7 +687,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXAB6D8B0D7C9249F6B4D472B5F2267200">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507768133</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507768133</url></Content>
 					<string name="Name">SitAnim</string>
 				</Properties>
 			</Item>
@@ -699,7 +699,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXCF6FEED13778435BAB1847FB03DF8AD8">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507768375</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507768375</url></Content>
 					<string name="Name">ToolLungeAnim</string>
 				</Properties>
 			</Item>
@@ -711,7 +711,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX7EA30331FA0B479C9BDB302BA01F2419">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=540798782</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=540798782</url></Content>
 					<string name="Name">WalkAnim</string>
 				</Properties>
 			</Item>
@@ -723,7 +723,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX5FD148051EF5456FA4E349FB28AC0C22">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=481825862</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=481825862</url></Content>
 					<string name="Name">SwimIdle</string>
 				</Properties>
 			</Item>
@@ -735,7 +735,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXDB64D8D3F7054C00868C8A5B596BA6DA">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507784897</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507784897</url></Content>
 					<string name="Name">Swim</string>
 				</Properties>
 			</Item>
@@ -747,7 +747,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXB6069EFEDD074A1E8950D252CD0BEDAC">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507768375</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507768375</url></Content>
 					<string name="Name">ToolSlashAnim</string>
 				</Properties>
 			</Item>
@@ -759,7 +759,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX235A33030B114950B95F9A803CE18011">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507768375</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507768375</url></Content>
 					<string name="Name">ToolNoneAnim</string>
 				</Properties>
 			</Item>
@@ -771,7 +771,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX289607FF40264B5283CBE52A0968D369">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507770239</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507770239</url></Content>
 					<string name="Name">WaveAnim</string>
 				</Properties>
 			</Item>
@@ -783,7 +783,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXC1F3C6BE473E463B831DF758C6E33E7B">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507770818</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507770818</url></Content>
 					<string name="Name">LaughAnim</string>
 				</Properties>
 			</Item>
@@ -795,7 +795,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX97A5E04897324DC29B502AD151492628">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507770453</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507770453</url></Content>
 					<string name="Name">PointAnim</string>
 				</Properties>
 			</Item>
@@ -807,7 +807,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX1FBCD816A95947FD92F88F27A2742E76">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507770677</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507770677</url></Content>
 					<string name="Name">CheerAnim</string>
 				</Properties>
 			</Item>
@@ -819,7 +819,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXBB51D8D1C8964CAEBF72AFF33CC3F86B">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507771019</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507771019</url></Content>
 					<string name="Name">Animation1</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBXE1D01798DA734F9ABD349136360AC0F7">
@@ -831,7 +831,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBXBF61451CF15640B69CA86ADC9A485D22">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507771955</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507771955</url></Content>
 					<string name="Name">Animation2</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBX07011263539F410298682B0E484E6DD6">
@@ -843,7 +843,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBXEC4EDF3394E942239DE459CE0F6311F7">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507772104</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507772104</url></Content>
 					<string name="Name">Animation3</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBXDE3167369F184A6B88AE3F70209F930B">
@@ -861,7 +861,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBX5D79C48B4507452A86A34CCCC944BB6C">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507776043</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507776043</url></Content>
 					<string name="Name">Animation1</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBX0B464F16C3C94E54AF92B58A72FE1DBC">
@@ -873,7 +873,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBX67E70DEFF3774D689E6DEADA7AFB2869">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507776720</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507776720</url></Content>
 					<string name="Name">Animation2</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBX899591DBFD3B4E7DACE3AB4919A6D6C1">
@@ -885,7 +885,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBX214E40E9BEAA4681B7F79F886FE40302">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507776879</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507776879</url></Content>
 					<string name="Name">Animation3</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBXD8E0FDD9DA374312BA56E29B080FF00C">
@@ -903,7 +903,7 @@ end
 			</Properties>
 			<Item class="Animation" referent="RBXAE6D13EFDDE54BECA02633C646419F2B">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507777268</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507777268</url></Content>
 					<string name="Name">Animation1</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBX77AD6AF4C51E40538099193C6C9151D6">
@@ -915,7 +915,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBXDF0B79AAB82B4A5CADFFB202FF54D6EB">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507777451</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507777451</url></Content>
 					<string name="Name">Animation2</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBXF795075B6A07440E91F02457A02CBE47">
@@ -927,7 +927,7 @@ end
 			</Item>
 			<Item class="Animation" referent="RBX6244AB050AA84D8599A87CC474E12288">
 				<Properties>
-					<Content name="AnimationId"><url>http://www.pekora.zip/asset/?id=507777623</url></Content>
+					<Content name="AnimationId"><url>http://www.silrev.biz/asset/?id=507777623</url></Content>
 					<string name="Name">Animation3</string>
 				</Properties>
 				<Item class="NumberValue" referent="RBX1EB4653C0987454F8E77A57DEBC68C9B">

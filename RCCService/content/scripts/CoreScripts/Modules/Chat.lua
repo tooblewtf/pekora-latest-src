@@ -2392,7 +2392,7 @@ local function CreateChat()
       Size = UDim2.new(0, 128, 0, 32);
       Position = UDim2.new(0, 88, 0, 0);
       BackgroundTransparency = 1.0;
-      Image = 'https://www.pekora.zip/asset/?id=97078724';
+      Image = 'https://www.silrev.biz/asset/?id=97078724';
     };
   end
 

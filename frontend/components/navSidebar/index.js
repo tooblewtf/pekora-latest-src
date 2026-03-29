@@ -3,6 +3,7 @@ import { createUseStyles } from "react-jss";
 import AuthenticationStore from "../../stores/authentication";
 import NavigationStore from "../../stores/navigation";
 import LinkEntry from "./components/linkEntry";
+import PlayerHeadshot from "../playerHeadshot";
 import { avPageStyleType, getAvPageStyle, getTheme, themeType } from "../../services/theme";
 import {
     getPendingApplicationCount,
@@ -35,11 +36,11 @@ const useNavSideBarStyles = createUseStyles({
     username: {
         fontSize: '16px',
         fontWeight: '500',
-        paddingTop: '8px',
-        paddingBottom: '5px',
         marginBottom: 0,
         color: p => p.theme === themeType.obc2016 ? 'var(--white-color)' : 'var(--text-color-primary)',
-        textDecoration: 'none'
+        textDecoration: 'none',
+		display: 'flex',
+		alignItems: 'center'
     },
     divider: {
         borderBottom: '1px solid var(--text-color-secondary)',
@@ -52,6 +53,7 @@ const useNavSideBarStyles = createUseStyles({
     upgradeNowButton: {
         marginTop: '10px',
         background: 'var(--primary-color)',
+		background: p => p.theme === themeType.obc2016 ? '#85410D' : 'var(--primary-color)',
         fontSize: '15px',
         fontWeight: 500,
         width: '100%',
@@ -62,6 +64,27 @@ const useNavSideBarStyles = createUseStyles({
         borderRadius: '4px',
         '&:hover': {
             background: 'var(--primary-color-hover)',
+        },
+    },
+	Wrapheadshot: {
+        marginRight: '6px',
+        float: 'left',
+        backgroundColor: '#d1d1d1',
+        border: '0 none',
+        width: '22px',
+        height: '22px',
+        padding: 0,
+        verticalAlign: 'middle',
+        borderRadius: '50%',
+        overflow: 'hidden',
+		flexShrink: 0,
+        '& img': {
+            width: '100%',
+            height: '100%',
+            border: '0 none',
+            borderRadius: '50%',
+            verticalAlign: 'middle',
+            overflow: 'clip',
         },
     },
 });
@@ -113,7 +136,7 @@ const NavSideBar = props => {
         setPending().then();
     }, []);
     useEffect(() => {
-        if (pendingCount === 0) setPendingCount(69);
+        if (pendingCount === 0) setPendingCount(0);
     }, [pendingCount]);
     const paddingTop = mainNavBarRef.current && mainNavBarRef.current.clientHeight + 'px' || 0;
     
@@ -125,7 +148,10 @@ const NavSideBar = props => {
     
     return <div className={s.container}>
         <div className={s.card}>
-            <a href={'/users/' + authStore.userId + '/profile'} className={s.username}>{authStore.username}</a>
+            <a href={'/users/' + authStore.userId + '/profile'} className={s.username}>
+			<div className={s.Wrapheadshot}>
+			   <PlayerHeadshot id={authStore.userId} name={authStore.username} />
+			</div>{authStore.username}</a>
             <div className={s.divider}/>
             <LinkEntry theme={getTheme()} name='Home' url='/home' icon='icon-nav-home'/>
             <LinkEntry theme={getTheme()} name='Profile' url={'/users/' + authStore.userId + '/profile'}
@@ -143,10 +169,15 @@ const NavSideBar = props => {
                        count={authStore.notificationCount.trades}/>
             <LinkEntry theme={getTheme()} name='Groups' url='/My/Groups.aspx' icon='icon-nav-group'/>
             <LinkEntry theme={getTheme()} name='Forums' url='/Forum/Default.aspx' icon='icon-nav-forum'/>
+			<LinkEntry theme={getTheme()} name='Blog' url='https://blog.silrev.biz/' icon='icon-nav-blog'/>
             {isStaff ? (
                 <LinkEntry theme={getTheme()} name='Panel' url='/admin' icon='icon-edit' count={pendingCount}/>
             ) : null}
             <a href='/BuildersClub/Upgrade.ashx'><p className={s.upgradeNowButton}>Upgrade Now</p></a>
+			<div>
+			<p>Events</p>
+			<img src='/img/logo.png' width='150px'></img>
+			</div>
         </div>
     </div>
 }

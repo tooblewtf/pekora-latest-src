@@ -24,7 +24,7 @@ local HEALTH_GREEN_COLOR = Color3.new(27/255, 252/255, 107/255)
 
 local HEALTH_PERCANTAGE_FOR_OVERLAY = 5 / 100
 
-local HURT_OVERLAY_IMAGE = "http://www.pekora.zip/asset/?id=34854607"
+local HURT_OVERLAY_IMAGE = "http://www.silrev.biz/asset/?id=34854607"
 
 local DEBOUNCE_TIME = 0.25
 

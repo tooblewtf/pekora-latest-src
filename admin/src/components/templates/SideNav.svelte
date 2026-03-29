@@ -203,7 +203,7 @@
 					</li>
 				{/if}
 				<li class="nav-item mt-2 d-md-none d-block">
-					<a class="nav-link" href="/">Back to Pekora</a>
+					<a class="nav-link" href="/">Back to Marine</a>
 				</li>
 			</ul>
 		</div>

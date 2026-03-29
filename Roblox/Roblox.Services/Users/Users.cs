@@ -886,7 +886,7 @@ public class UsersService : ServiceBase, IService
             return true;
 
         // Default
-        return false;
+        return true;
     }
     /// <summary>
     /// Check duplicate discord id.
@@ -1281,6 +1281,14 @@ public class UsersService : ServiceBase, IService
                 left_arm_color_id = 194,
                 right_leg_color_id = 102,
                 left_leg_color_id = 102,
+            });
+			
+			// social urls
+		    await InsertAsync("user_connections", "user_id", new
+            {
+                user_id = userId,
+                created_at = DateTime.UtcNow,
+				updated_at = DateTime.UtcNow,
             });
 
             foreach (var id in Roblox.Configuration.SignupAssetIds)
