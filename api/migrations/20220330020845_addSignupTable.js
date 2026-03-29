@@ -6,6 +6,9 @@ exports.up = async (knex) => {
         t.string('matrix_name', 512).notNullable(); // first part of matrix name
         t.string('matrix_domain', 512).notNullable(); // matrix homeserver
         t.string('social_presence', 512).notNullable(); // a valid social presence, such as a twitter account with followers, youtube channel, etc
+        // discord info (why does pekora not change their migrations tf)
+        t.string('discord_id', 32).nullable().defaultTo(null);
+        t.string('discord_username', 64).nullable().defaultTo(null);
         t.bigInteger('user_id').nullable().defaultTo(null); // null if app hasn't been used yet
         t.bigInteger('author_id').nullable().defaultTo(null); // staff member who accepted/declined the app
         t.string('reject_reason', 512).nullable().defaultTo(null); // reason for rejection, if app is rejected

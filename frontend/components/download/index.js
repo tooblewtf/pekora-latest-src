@@ -21,7 +21,7 @@ const Download = props => {
         <div className='row'>
             <div className='col-12 mb-4'>
                 <h1 className={s.title}>Download</h1>
-                <p className={s.subTitle}>Download the Pekora Player to get into the game.</p>
+                <p className={s.subTitle}>Download the Marine Player to get into the game.</p>
             </div>
         </div>
         <div className='row'>

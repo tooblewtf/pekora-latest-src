@@ -118,7 +118,7 @@ const Access = props => {
                 <span>Server Fill:</span>
                 <label className={s.deviceLabel}>
                     <input type="radio" name="optimize" checked={false} disabled={true}/>
-                    <span>Pekora optimizes server fill for me</span>
+                    <span>Marine optimizes server fill for me</span>
                 </label>
                 <label className={s.deviceLabel}>
                     <input type="radio" name="fill" checked={true} disabled={true}/>

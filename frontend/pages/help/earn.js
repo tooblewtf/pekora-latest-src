@@ -18,7 +18,7 @@ const EarnHelp = props => {
 export const getStaticProps = () => {
     return {
         props: {
-            title: 'Earning Robux - Pekora',
+            title: 'Earning Robux - Marine',
             disableWebsiteTheming: true,
         },
     };

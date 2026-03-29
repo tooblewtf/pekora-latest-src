@@ -32,7 +32,7 @@ public class RobloxPageModel : PageModel
     {
         get
         {
-            const string key = "PEKORA-DISCORD";
+            const string key = "MARINE-DISCORD";
             var tokenEncoded = Request.Cookies[key];
             if (tokenEncoded == null)
             {

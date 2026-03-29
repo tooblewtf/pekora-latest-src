@@ -16,6 +16,7 @@ exports.up = async (knex) => {
         t.boolean('is_public_domain').notNullable().defaultTo(false);
         t.integer('access').notNullable().defaultTo(1); // 1 = Everyone, 2 = Friends/Group Members (depending on creator_type)
         t.bigInteger('visit_count').notNullable().defaultTo(0);
+		t.integer('year').notNullable().unsigned().defaultTo(2017);
     });
     // migrate existing
     const places = await knex('asset').select('*').where({ 'asset_type': 9 });
@@ -28,6 +29,7 @@ exports.up = async (knex) => {
             'access': 1,
             'is_vip_enabled': false,
             'is_public_domain': false,
+			'year': 2017,
         })
     }
 };

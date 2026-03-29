@@ -351,7 +351,7 @@ const MyDashboard = props => {
                         <h3 style={{ padding: '5px 0', margin: '0 0 6px' }}>Blog News</h3>
                     </div>
                     <div className={`section-content`}>
-                        <p style={{ fontSize: '18px', fontWeight: 500, margin: 0, padding: 0 }}>No news found.</p>
+                        <p style={{ fontSize: '18px', fontWeight: 500, margin: 0, padding: 0 }}>The blog will be worked on.</p>
                     </div>
                 </div>
             </div>

@@ -392,7 +392,7 @@ export default class CommandHandler extends StdExceptions {
 		const xml = `<?xml version="1.0" encoding="utf-8"?>
 <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
   <soap:Body>
-    <OpenJobEx xmlns="http://pekora.zip/">
+    <OpenJobEx xmlns="http://silrev.biz/">
         <job>
             <id>${jobId}</id>
             <category>0</category>
@@ -421,7 +421,7 @@ export default class CommandHandler extends StdExceptions {
 		const xml = `<?xml version="1.0" encoding="utf-8"?>
 <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
   <soap:Body>
-    <CloseJob xmlns="http://pekora.zip/" jobID="${jobId}">
+    <CloseJob xmlns="http://silrev.biz/" jobID="${jobId}">
 		<jobID>${jobId}</jobID>
         <job>
             <id>${jobId}</id>
@@ -813,7 +813,7 @@ export default class CommandHandler extends StdExceptions {
 	}
 
 	private async GetTeeShirtThumb(assetId: number): Promise<Buffer> {
-		// https://pekora.zip
+		// https://silrev.biz
 		const result = await axiosClient.get(`${conf.baseUrl}/asset/?id=${assetId}`, {
 			responseType: 'arraybuffer',
 			headers: {

@@ -7,12 +7,7 @@ public class JoinGameRequest
     public string ticket { get; set; }
     public string job { get; set; }
 }
-// for nilentas silly game
-public class GayFurrySexModel
-{
-    public long userId { get; set; }
-    public string auth { get; set; }
-}
+
 public class ReportActivity
 {
     public string serverId { get; set; }

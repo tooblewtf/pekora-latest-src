@@ -24,7 +24,7 @@ local TEXT_STROKE_TRANSPARENCY = 0.75
 local TEXT_COLOR = Color3.new(1, 1, 243/255)
 local TEXT_STROKE_COLOR = Color3.new(34/255, 34/255, 34/255)
 local MAX_FRIEND_COUNT = 200
-local FRIEND_IMAGE = 'https://www.pekora.zip/thumbs/avatar.ashx?userId='
+local FRIEND_IMAGE = 'https://www.silrev.biz/thumbs/avatar.ashx?userId='
 
 local GET_BLOCKED_USERIDS_TIMEOUT = 5
 

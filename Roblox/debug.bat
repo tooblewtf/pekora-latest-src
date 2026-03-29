@@ -1,1 +1,1 @@
-dotnet watch run --project Roblox.Website --hot-reload --configuration Debug
+dotnet watch run --project Roblox.Website --hot-reload --configuration Release

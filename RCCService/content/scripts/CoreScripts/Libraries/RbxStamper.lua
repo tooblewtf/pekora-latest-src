@@ -654,7 +654,7 @@ t.GetStampModel = function(assetId, terrainShape, useAssetVersionId)
 		if cellType == 3 then
 			local inverseCornerWedgeMesh = Instance.new("SpecialMesh")
 			inverseCornerWedgeMesh.MeshType = "FileMesh"
-			inverseCornerWedgeMesh.MeshId = "https://www.pekora.zip/asset/?id=66832495"
+			inverseCornerWedgeMesh.MeshId = "https://www.silrev.biz/asset/?id=66832495"
 			inverseCornerWedgeMesh.Scale = Vector3.new(2, 2, 2)
 			inverseCornerWedgeMesh.Parent = newTerrainPiece
 		end

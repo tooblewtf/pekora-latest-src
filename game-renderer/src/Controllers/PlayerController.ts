@@ -14,7 +14,7 @@ const box = new QueueBox<express.Response>(`PlayerBox`, Config.Ports.RCC.Player)
 
 router.post("/thumbnail", Valid(PlayerRenderRequest), async (req, res) => {
     const xml: BaseJson = JSON.parse(JSON.stringify(AvatarTemplate));
-    const charAppUrl = `${Config.BaseUrl}/v1.1/avatar-fetch?placeId=0&userId=${req.body.userId}`;
+    const charAppUrl = `${Config.BaseUrl}v1.1/avatar-fetch?placeId=0&userId=${req.body.userId}`;
     xml.Settings.Arguments[0] = Config.BaseUrl;
     xml.Settings.Arguments[1] = charAppUrl;
     xml.Settings.Arguments[3] = 840;
@@ -31,7 +31,7 @@ router.post("/thumbnail", Valid(PlayerRenderRequest), async (req, res) => {
 
 router.post("/thumbnail-3d", Valid(PlayerRenderRequest), async (req, res) => {
     const xml: BaseJson = JSON.parse(JSON.stringify(AvatarTemplate));
-    const charAppUrl = `${Config.BaseUrl}/v1.1/avatar-fetch?placeId=0&userId=${req.body.userId}`;
+    const charAppUrl = `${Config.BaseUrl}v1.1/avatar-fetch?placeId=0&userId=${req.body.userId}`;
     xml.Settings.Arguments[0] = Config.BaseUrl;
     xml.Settings.Arguments[1] = charAppUrl;
     xml.Settings.Arguments[2] = "OBJ";
@@ -49,7 +49,7 @@ router.post("/thumbnail-3d", Valid(PlayerRenderRequest), async (req, res) => {
 
 router.post("/headshot", Valid(PlayerRenderRequest), async (req, res) => {
     const xml: BaseJson = JSON.parse(JSON.stringify(HeadshotTemplate));
-    const charAppUrl = `${Config.BaseUrl}/v1.1/avatar-fetch?placeId=0&userId=${req.body.userId}`;
+    const charAppUrl = `${Config.BaseUrl}v1.1/avatar-fetch?placeId=0&userId=${req.body.userId}`;
     xml.Settings.Arguments[0] = Config.BaseUrl;
     xml.Settings.Arguments[1] = charAppUrl;
     xml.Settings.Arguments[3] = 720;

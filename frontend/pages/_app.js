@@ -11,7 +11,8 @@ import NextNProgress from "nextjs-progressbar";
 import LoginModalStore from '../stores/loginModal';
 import AuthenticationStore from '../stores/authentication';
 import NavigationStore from '../stores/navigation';
-import {getTheme, themeType} from '../services/theme';
+import {getTheme, themeType, getFontStyle, fontStyle} from '../services/theme';
+import {toFreaky} from '../services/freakyUnicode';
 import MainWrapper from '../components/mainWrapper';
 import GlobalAlert from '../components/globalAlert';
 import ThumbnailStore from "../stores/thumbnailStore";
@@ -43,6 +44,29 @@ function RobloxApp({Component, pageProps}) {
     // @ts-ignore
     const isChristmas = false
     useEffect(() => {
+		// for font switch
+        const bodyEl = document.body;
+        if (!bodyEl) return;
+        const font = getFontStyle();
+        if (font === fontStyle.freaky) {
+            const transformFn = toFreaky;
+            const walk = document.createTreeWalker(bodyEl, NodeFilter.SHOW_TEXT, null, false);
+            let node;
+            while ((node = walk.nextNode())) {
+                if (
+                     node.parentNode &&
+                    (node.parentNode.tagName === 'INPUT' ||
+                     node.parentNode.tagName === 'TEXTAREA' ||
+                     node.parentNode.isContentEditable)
+                ) continue;
+
+                node.nodeValue = transformFn(node.nodeValue);
+            }
+        } else {
+			const safeClass = (name) => `font-${name.replace(/\s+/g, '-')}`;
+            Object.values(fontStyle).forEach(f => bodyEl.classList.remove(safeClass(f)));
+            bodyEl.classList.add(safeClass(font));
+        }
         // const el = typeof window !== 'undefined' && document.getElementsByTagName('body');
         // if (el && el.length) {
         //   const theme = getTheme();
@@ -63,6 +87,7 @@ function RobloxApp({Component, pageProps}) {
         //     document.documentElement.style.setProperty('--primary-color-hover', 'rgb(210,0,87)');
         //   }
         // }
+		
         dayjs.extend(relativeTime);
         const el = typeof window !== 'undefined' && document.getElementsByTagName('body');
         if (el && el.length) {
@@ -86,7 +111,7 @@ function RobloxApp({Component, pageProps}) {
         <Head>
             <link rel="preconnect" href="https://fonts.googleapis.com"/>
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin={''}/>
-            <title>{pageProps.title || 'Pekora'}</title>
+            <title>{pageProps.title || 'Marine'}</title>
             <link rel='icon' type="image/vnd.microsoft.icon" href='/favicon.ico'/>
             <meta name='viewport' content='width=device-width, initial-scale=1'/>
         </Head>

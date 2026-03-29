@@ -79,7 +79,7 @@ const InstallHelpPage = props => {
                 <ol className={s.breadcrumbs}>
                     <li>
                         <Link href="/help">
-                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help">Pekora Support</a>
+                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help">Marine Support</a>
                         </Link>
                     </li>
                     <li>

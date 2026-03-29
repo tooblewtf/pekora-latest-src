@@ -66,7 +66,7 @@ const InstallHelpPage = props => {
     const subpages = [
         {
             id: "create",
-            name: "How to Create a Pekora Account",
+            name: "How to Create a Marrine Account",
             el: () => <MarkdownContent mdUrl="createAccount.md" />,
         },
     ]
@@ -79,12 +79,12 @@ const InstallHelpPage = props => {
                 <ol className={s.breadcrumbs}>
                     <li>
                         <Link href="/help">
-                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help">Pekora Support</a>
+                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help">Marine Support</a>
                         </Link>
                     </li>
                     <li>
                         <Link href="/help/install">
-                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help/install">Pekora Account</a>
+                            <a className="link2018" style={{ fontWeight: 300, fontSize: '13px', lineHeight: 1.5 }} href="/help/install">Marine Account</a>
                         </Link>
                     </li>
                     <li>

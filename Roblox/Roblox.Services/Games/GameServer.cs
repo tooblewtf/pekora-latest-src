@@ -26,7 +26,10 @@ public class GameServerService : ServiceBase
         
         public ArbiterHttpClient()
         {
-            this.BaseAddress = new Uri($"https://arbiter.{Configuration.ShortBaseUrl}/");
+            // BaseAddress should be the url to your game-arbiter host itself
+            // i don't really know why pekora's developers decided to hardcode this except for
+            // making a configuration on AppSettings.json (i gotta do that soon)
+            this.BaseAddress = new Uri($"http://gamearbiterserverhere.com/");
             this.DefaultRequestHeaders.Add("PJX-ArbiterAUTH", Configuration.ArbiterAuthorization);
         }
         public async Task<bool> StartGameServer(StartGameServerRequest request)
@@ -130,7 +133,7 @@ public class GameServerService : ServiceBase
     public static Dictionary<string, int> unreadyGameServers = new Dictionary<string, int>(); // Process, network server port
     public static void Configure(string newJwtKey)
     {
-        jwtKey = "hello world 12345";
+        jwtKey = "6EwhjPzM9Kf9pPRgYyCnhmM3v6j9d95vCg+NBeUThw49dcLLs1BvNnErFItWCEjS0e85QaYRcE38sTgkRg";
     }
 
     private string HashIpAddress(string hashedIpAddress)
@@ -853,8 +856,8 @@ public class GameServerService : ServiceBase
             id = jobId,
             asset_id = placeInfo.placeId,
             ip = Configuration.GameServerIp,
-            port = proxyPort,
-            server_connection = $"{Configuration.GameServerIp}:{proxyPort}",
+            port = networkServerPort,
+            server_connection = $"{Configuration.GameServerIp}:{networkServerPort}",
             type = matchmaking
         });
 

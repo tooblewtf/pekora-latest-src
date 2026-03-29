@@ -53,7 +53,7 @@ local emptySelectionImage = Util:Create "ImageLabel" {
 }
 
 
-local AVATAR_IMAGE_URL = 'http://www.pekora.zip/thumbs/avatar.ashx?userId=%d&x=%d&y=%d'
+local AVATAR_IMAGE_URL = 'http://www.silrev.biz/thumbs/avatar.ashx?userId=%d&x=%d&y=%d'
 
 local TEXT_COLOR = Color3.new(1, 1, 1)
 

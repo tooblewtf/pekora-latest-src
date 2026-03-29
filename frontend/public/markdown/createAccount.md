@@ -1,10 +1,10 @@
-Creating an account on Pekora is done through an application. This prevents bots and malicious users from joining.
+Creating an account on Marine is done through an application. This prevents bots and malicious users from joining.
 
 To create an account, you must meet these requirements:
 * You must be 13 years or older
 * You must have an active account on ROBLOX
-* You cannot create more than **one account** on Pekora without staff permission.
-* You must have a Discord, and be in the Pekora Discord, which you can (join here.)[/auth/discord]
+* You cannot create more than **one account** on Marine without staff permission.
+* You must have a Discord, and be in the Marine Discord, which you can (join here.)[/auth/discord]
 * You must have read and agreed to our Terms of Service and our Privacy Policy.
 
 If your application gets denied, you can try again. Remember to fix the thing that got you denied, though.
@@ -23,7 +23,7 @@ If your application gets denied, you can try again. Remember to fix the thing th
    * Your account must have some activity on it, you can't put in a brand new account, or an account that has been dead for a long time.
 4. Enter your Discord ID (Step 3)
    * To find your Discord ID, you can follow the [steps that Discord has provided in this article.](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID)
-   * Remember that **you must be in the [Pekora Discord](/auth/discord)** for verification to be successful.
+   * Remember that **you must be in the [Marine Discord](/auth/discord)** for verification to be successful.
 5. Put the Verification Code **in your ROBLOX About Section**
    * Right-click and copy your verification code
    * ![](/img/instructions/hERWsZU6Lq.png)

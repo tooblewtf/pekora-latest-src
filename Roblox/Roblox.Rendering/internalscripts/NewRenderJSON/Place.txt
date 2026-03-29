@@ -3,7 +3,7 @@
   "Settings": {
     "Type": "Place",
     "Arguments": [
-       "https://www.pekora.zip/asset?id=%universeId%",
+       "https://www.silrev.biz/asset?id=%universeId%",
        "PNG",
       %x%,
       %y%,

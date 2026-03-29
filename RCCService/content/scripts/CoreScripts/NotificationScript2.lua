@@ -64,9 +64,9 @@ local TWEEN_TIME = 0.35
 local DEFAULT_NOTIFICATION_DURATION = 5
 
 --[[ Images ]]--
-local PLAYER_POINTS_IMG = 'http://www.pekora.zip/asset?id=206410433'
-local BADGE_IMG = 'http://www.pekora.zip/asset?id=206410289'
-local FRIEND_IMAGE = 'http://www.pekora.zip/thumbs/avatar.ashx?userId='
+local PLAYER_POINTS_IMG = 'http://www.silrev.biz/asset?id=206410433'
+local BADGE_IMG = 'http://www.silrev.biz/asset?id=206410289'
+local FRIEND_IMAGE = 'http://www.silrev.biz/thumbs/avatar.ashx?userId='
 
 --[[ Gui Creation ]]--
 local function createFrame(name, size, position, bgt)

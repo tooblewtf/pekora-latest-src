@@ -21,7 +21,7 @@ for _, object in pairs(game:GetObjects(assetUrl)) do
 		end
 	elseif object:IsA("LuaSourceContainer") then
 		print("Lua Script")
-		return ThumbnailGenerator:ClickTexture("https://www.pekora.zip/asset?id=41163", fileExtension, x, y)
+		return ThumbnailGenerator:ClickTexture("https://www.silrev.biz/asset?id=41163", fileExtension, x, y)
 	elseif object:IsA("SpecialMesh") then
 		local part = Instance.new("Part")
 		part.Parent = workspace

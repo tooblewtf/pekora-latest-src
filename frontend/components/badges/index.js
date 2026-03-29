@@ -67,19 +67,19 @@ const useBadgeStyles = createUseStyles({
 const MembershipBadges = [
     {
         name: 'Welcome To The Club Badge',
-        desc: 'This badge is awarded to players who have ever belonged to the illustrious Builders Club. These players are part of a long tradition of Pekora greatness.',
+        desc: 'This badge is awarded to players who have ever belonged to the illustrious Builders Club. These players are part of a long tradition of Marine greatness.',
         iconOne: 2,
         iconTwo: 0,
     },
     {
         name: 'Builders Club Badge',
-        desc: 'Members of the illustrious Builders Club display this badge proudly. The Builders Club is a paid premium service. Members receive several benefits: they earn a daily income of 15 Robux, they can sell their creations to others in the Pekora Catalog, they get the ability to browse the web site without external ads, and they receive the exclusive Builders Club construction hat.',
+        desc: 'Members of the illustrious Builders Club display this badge proudly. The Builders Club is a paid premium service. Members receive several benefits: they earn a daily income of 15 Robux, they can sell their creations to others in the Marine Catalog, they get the ability to browse the web site without external ads, and they receive the exclusive Builders Club construction hat.',
         iconOne: 6,
         iconTwo: 0,
     },
     {
         name: 'Turbo Builders Club Badge',
-        desc: 'Members of the exclusive Turbo Builders Club are some of the most dedicated Pekorians. The Turbo Builders Club is a paid premium service. Members receive many of the benefits received in the regular Builders Club, in addition to a few more exclusive upgrades: they earn a daily income of 35 Robux, they can sell their creations to others in the Pekora Catalog, they get the ability to browse the web site without external ads, they receive the exclusive Turbo Builders Club red site managers hat, and they receive an exclusive gear item.',
+        desc: 'Members of the exclusive Turbo Builders Club are some of the most dedicated Pekorians. The Turbo Builders Club is a paid premium service. Members receive many of the benefits received in the regular Builders Club, in addition to a few more exclusive upgrades: they earn a daily income of 35 Robux, they can sell their creations to others in the Marine Catalog, they get the ability to browse the web site without external ads, they receive the exclusive Turbo Builders Club red site managers hat, and they receive an exclusive gear item.',
         iconOne: 6, // had to remove 1
         iconTwo: 1, // had to add 1
     },
@@ -94,19 +94,19 @@ const MembershipBadges = [
 const CommunityBadges = [
     {
         name: 'Administrator Badge',
-        desc: `This badge identifies an account as belonging to a Pekora administrator. Only official Pekora administrators will possess this badge. If someone claims to be an admin, but does not have this badge, they are potentially trying to mislead you. If this happens, please report abuse and we will delete the imposter's account.`,
+        desc: `This badge identifies an account as belonging to a Marine administrator. Only official Marine administrators will possess this badge. If someone claims to be an admin, but does not have this badge, they are potentially trying to mislead you. If this happens, please report abuse and we will delete the imposter's account.`,
         iconOne: 7,
         iconTwo: 1,
     },
     {
         name: 'Veteran Badge',
-        desc: 'This badge recognizes members who have played Pekora for one year or more. They are stalwart community members who have stuck with us over countless releases, and have helped shape Pekora into the game that it is today. These medalists are the true steel, the core of the Projexian history ... and its future.',
+        desc: 'This badge recognizes members who have played Marine for one year or more. They are stalwart community members who have stuck with us over countless releases, and have helped shape Marine into the game that it is today. These medalists are the true steel, the core of the Projexian history ... and its future.',
         iconOne: 8,
         iconTwo: 0,
     },
     {
         name: 'Friendship Badge',
-        desc: 'This badge is given to players who have embraced the Pekora community and have made at least 20 friends. People who have this badge are good people to know and can probably help you out if you are having trouble.',
+        desc: 'This badge is given to players who have embraced the Marine community and have made at least 20 friends. People who have this badge are good people to know and can probably help you out if you are having trouble.',
         iconOne: 0,
         iconTwo: 1,
     },
@@ -139,7 +139,7 @@ const DeveloperBadges = [
     },
     {
         name: 'Official Model Maker Badge',
-        desc: 'This badge is awarded to players whose creations are so awesome, Pekora endorsed them. Owners of this badge probably have great scripting and building skills.',
+        desc: 'This badge is awarded to players whose creations are so awesome, Marine endorsed them. Owners of this badge probably have great scripting and building skills.',
         iconOne: 5,
         iconTwo: 1,
     },

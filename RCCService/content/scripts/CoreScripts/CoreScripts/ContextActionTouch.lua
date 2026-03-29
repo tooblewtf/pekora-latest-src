@@ -13,8 +13,8 @@ local buttonVector = {}
 local buttonScreenGui = nil
 local buttonFrame = nil
 
-local ContextDownImage = "https://www.pekora.zip/asset/?id=97166756"
-local ContextUpImage = "https://www.pekora.zip/asset/?id=97166444"
+local ContextDownImage = "https://www.silrev.biz/asset/?id=97166756"
+local ContextUpImage = "https://www.silrev.biz/asset/?id=97166444"
 
 local oldTouches = {}
 

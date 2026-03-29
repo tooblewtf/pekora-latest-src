@@ -96,8 +96,8 @@ public class Asset : ControllerBase
 
         var isBot = Request.Headers["bot-auth"].ToString() == Configuration.BotAuthorization;
         // Places can never be loaded if they are denied
-        if (!IsAssetApproved(details) && !isRCC && !isBot && details.assetType != Type.Place)
-            throw new ForbiddenException(0, "Asset not approved for requester");
+        // if (!IsAssetApproved(details) && !isRCC && !isBot && details.assetType != Type.Place)
+        //    throw new ForbiddenException(0, "Asset not approved for requester");
 
         AssetVersionEntry assetVersion;
         if (version is null)
@@ -164,18 +164,18 @@ public class Asset : ControllerBase
             case Models.Assets.Type.SolidModel:
             case Models.Assets.Type.Video:
                 break;
-            default:
+            // default:
                 // If we are RCC and the validation is ok break out
-                if (isRCC && await ValidateRCCRequest(details, currentPlaceId, assetId))
-                {
-                    break;
-                }
+                // if (isRCC && await ValidateRCCRequest(details, currentPlaceId, assetId))
+                // {
+                //    break;
+                // }
                 // We are a user, if we are authorized break again
-                if (await IsUserAuthorizedForAsset(details, assetId, safeUserSession.userId))
-                {
-                    break;
-                }
-                throw new ForbiddenException(1, "User is not authorized to access Asset.");
+                // if (await IsUserAuthorizedForAsset(details, assetId, safeUserSession.userId))
+                // {
+                //    break;
+                // }
+                // throw new ForbiddenException(1, "User is not authorized to access Asset.");
         }
 
         if (assetVersion.contentUrl is not null)

@@ -98,7 +98,7 @@ const projexLoadingModal = props => {
         {isOpen && <NewModal title="">
             <div className={s.container}>
                 <span className={s.iconLogo} />
-                <p className={s.loadingText}>Pekora is now loading. Get ready!</p>
+                <p className={s.loadingText}>Marine is now loading. Get ready!</p>
                 <span className="spinner" />
             </div>
             <div className={s.modalBtns}></div>

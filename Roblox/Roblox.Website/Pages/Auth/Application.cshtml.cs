@@ -171,7 +171,7 @@ public class Application : RobloxPageModel
         var apps = new ApplicationWebsiteService(HttpContext);
         if (discordAccessToken == null)
         {
-            return new RedirectResult($"https://discord.com/oauth2/authorize?client_id={Configuration.DiscordClientId}&response_type=code&redirect_uri={HttpUtility.UrlEncode(Configuration.BaseUrl)}%2Fapi%2Fapplicationcallback&scope=identify+guilds.members.read+guilds.join");
+            return new RedirectResult($"https://discord.com/oauth2/authorize?client_id={Configuration.DiscordClientId}&response_type=code&redirect_uri={HttpUtility.UrlEncode(Configuration.BaseUrl)}%2Fapi%2Fapplicationcallback&scope=identify");
         }
         
         DiscordApi discordOAuth = new(discordAccessToken, Configuration.DiscordApplicationCallback);
@@ -274,7 +274,6 @@ public class Application : RobloxPageModel
             return new PageResult();
         }
 
-        await services.discordBotApi.AddGuildMember(Configuration.DiscordGuildId, discordUser.Id.ToString(), accessToken);
         await using var rateLimitLock =
             await Roblox.Services.Cache.redLock.CreateLockAsync("ApplicationSubmitV1:" + hashedIp, TimeSpan.FromSeconds(5));
         if (!rateLimitLock.IsAcquired)

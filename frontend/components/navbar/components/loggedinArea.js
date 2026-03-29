@@ -232,6 +232,20 @@ const useLoginAreaStyles = createUseStyles({
   dropdownClass: {
     marginTop: '18px',
   },
+  counter: {
+    color: "white",
+    padding: "2px 6px",
+    background: "rgb(253 1 1)",
+    borderRadius: "10px",
+    fontSize: "10px",
+    position: "absolute",
+    top: "3px",
+	right: "3px",
+  },
+  countWrap: {
+    float: "right",
+    paddingTop: "5px",
+  },
 });
 
 const LoggedInArea = (props) => {
@@ -256,6 +270,11 @@ const LoggedInArea = (props) => {
           <li className={`${s.messagesContainer} ${s.hideOnMobile}`}>
             <a href="/My/Messages" className={`${s.messagesLink}`}>
               <span className="icon-nav-message2" />
+			  {authStore.notificationCount.messages > 0 && (
+			     <span className={`${s.countWrap}`}>
+			     <span className={`${s.counter}`}>{authStore.notificationCount.messages}</span>
+			  </span>
+			  )}
             </a>
           </li>
           <li className={`${s.currencyContainer} ${s.robuxContainer}`}>

@@ -3,7 +3,7 @@
   "Settings": {
     "Type": "Avatar_R15_Action",
     "Arguments": [
-       "https://www.pekora.zip",
+       "https://www.silrev.biz",
        %characterAppearanceUrl%,
        "PNG",
        %x%,

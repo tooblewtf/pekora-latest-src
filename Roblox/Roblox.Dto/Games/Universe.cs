@@ -89,7 +89,7 @@ public class GameListEntryRoblox
 {
     public long CreatorID { get; set; }
     public string CreatorName { get; set; }
-    public string CreatorUrl = $"https://www.pekora.zip/users/1/profile";
+    public string CreatorUrl = $"https://www.silrev.biz/users/1/profile";
     public long Plays { get; set; }
     public int Price  { get; set; }
     public int ProductID = 0;

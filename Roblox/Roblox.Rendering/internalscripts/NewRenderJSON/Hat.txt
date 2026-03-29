@@ -7,7 +7,7 @@
        "PNG",
        1680,
        1680,
-       "https://www.pekora.zip",
+       "https://www.silrev.biz",
        true,
        0,
        0,

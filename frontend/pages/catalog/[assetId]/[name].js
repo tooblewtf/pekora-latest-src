@@ -8,14 +8,14 @@ const ItemPage = ({ name, description, assetId, ...props }) => {
         <>
             {name && (
                 <Head>
-                    <title>{name} - Pekora</title>
+                    <title>{name} - Marine</title>
                     <meta property="og:title" content={name}/>
-                    <meta property="og:url" content={`https://pekora.zip/catalog/${assetId}/--`}/>
+                    <meta property="og:url" content={`https://silrev.biz/catalog/${assetId}/--`}/>
                     <meta property="og:type" content="profile"/>
                     <meta property="og:description" content={description}/>
-                    <meta property="og:image" content={`https://pekora.zip/thumbs/asset.ashx?assetId=${assetId}`}/>
+                    <meta property="og:image" content={`https://silrev.biz/thumbs/asset.ashx?assetId=${assetId}`}/>
                     <meta name="twitter:card" content="summary_large_image"/>
-                    <meta name="og:site_name" content="Pekora"/>
+                    <meta name="og:site_name" content="Marine"/>
                     <meta name="theme-color" content="#E2231A"/>
                 </Head>
             )}

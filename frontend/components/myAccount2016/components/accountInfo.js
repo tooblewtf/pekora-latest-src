@@ -5,9 +5,11 @@ import { setUserDescription } from "../../../services/accountInformation";
 import {
     getAvPageStyle,
     getCatalogPageStyle,
+	getFontStyle,
     getTheme,
     setAvPageStyle,
     setCatalogPageStyle,
+	setFontStyle,
     setTheme
 } from "../../../services/theme";
 import AuthenticationStore from "../../../stores/authentication";
@@ -61,7 +63,7 @@ const AccountInfo = props => {
             <div className={cardStyles.card + ' p-3'}>
                 <textarea ref={descRef} className={s.descInput} rows={3} defaultValue={store.description}></textarea>
                 <p className='mb-0 font-size-12'>Do not provide any details that can be used to identify you outside
-                    Pekora.</p>
+                    Marine.</p>
                 <div className='mt-1'>
                     <div className='row'>
                         <div className='col pe-0'>
@@ -158,6 +160,24 @@ const AccountInfo = props => {
                             }}>
                                 <option value="Modern">Modern (2017+)</option>
                                 <option value="Legacy">Legacy (2013-2017)</option>
+                            </select>
+                        </div>
+                    </div>
+					<div className='row mt-2'>
+                        <div className='col pe-0'>
+                            <input className={'form-control ' + s.select + ' ' + s.disabled} value='Website Font'
+                                   readOnly={true}
+                                   type='text'></input>
+                        </div>
+                        <div className='col ps-0 pe-0'>
+                            <select className={'form-control ' + s.select} value={getFontStyle()}
+                                    onChange={ev => {
+                                        setFontStyle(ev.currentTarget.value);
+                                        window.location.reload();
+                                    }}>
+                                <option value="Default">Default</option>
+                                <option value="SourceSans">Source Sans</option>
+								<option value="freaky">𝓯𝓻𝓮𝓪𝓴𝔂</option>
                             </select>
                         </div>
                     </div>

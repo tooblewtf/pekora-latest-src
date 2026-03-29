@@ -831,10 +831,10 @@ local function setBuyMoreRobuxDialog(playerBalance)
 		--
 		if not ThirdPartyProductName then
 			if isTenFootInterface then
-				-- don't direct them to pekora.zip on consoles.
+				-- don't direct them to silrev.biz on consoles.
 				descriptionText = "This item cost more ROBUX than you have available. Please leave this game and go to the ROBUX screen to purchase more."
 			else
-				descriptionText = "This item cost more ROBUX than you can purchase. Please visit www.pekora.zip to purchase more ROBUX."
+				descriptionText = "This item cost more ROBUX than you can purchase. Please visit www.silrev.biz to purchase more ROBUX."
 			end
 			purchaseState = PURCHASE_STATE.FAILED
 			setButtonsVisible(OkButton)
@@ -898,12 +898,12 @@ local function onPurchaseFailed(failType)
 	elseif failType == PURCHASE_FAILED.UNDER_13 then
 		failedText = "Your account is under 13. Purchase of this item is not allowed. Your account has not been charged."
 	elseif failType == PURCHASE_FAILED.LIMITED then
-		failedText = "This limited item has no more copies. Try buying from another user on www.pekora.zip. Your account has not been charged."
+		failedText = "This limited item has no more copies. Try buying from another user on www.silrev.biz. Your account has not been charged."
 		setPreviewImage(PurchaseData.ProductInfo, PurchaseData.AssetId)
 	elseif failType == PURCHASE_FAILED.DID_NOT_BUY_ROBUX then
 		failedText = string.gsub(failedText, "errorReason", ERROR_MSG.INVALID_FUNDS)
 	elseif failType == PURCHASE_FAILED.PROMPT_PURCHASE_ON_GUEST then
-		failedText = "You need to create a ROBLOX account to buy items, visit www.pekora.zip for more info."
+		failedText = "You need to create a ROBLOX account to buy items, visit www.silrev.biz for more info."
 	elseif failType == PURCHASE_FAILED.THIRD_PARTY_DISABLED then
 		failedText = "Third-party item sales have been disabled for this place. Your account has not been charged."
 		setPreviewImage(PurchaseData.ProductInfo, PurchaseData.AssetId)

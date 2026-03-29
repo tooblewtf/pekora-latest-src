@@ -10,7 +10,7 @@ import Script from "next/script";
 const AvatarPage = () => {
     return <Theme2016>
         <Head>
-            <title>Avatar - Pekora</title>
+            <title>Avatar - Marine</title>
             <script src="/js/3d/three-r137/three.js" />
             <script src="/js/3d/three-r137/MTLLoaderr.js" />
             <script src="/js/3d/three-r137/OBJLoaderr.js" />

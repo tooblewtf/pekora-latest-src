@@ -1,7 +1,7 @@
 {
   "name": "game-renderer-2",
   "version": "2.0.0",
-  "description": "Manages renders for Pekora through JSON API. Works for 2017+ RCCs.",
+  "description": "Manages renders for Marine through JSON API. Works for 2017+ RCCs.",
   "main": "dist/Main.js",
   "type": "module",
   "scripts": {

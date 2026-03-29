@@ -106,7 +106,7 @@ namespace Roblox.Website.Controllers
         {
             get
             {
-                string key = "PEKORA-DISCORD";
+                string key = "MARINE-DISCORD";
                 var tokenEncoded = Request.Headers.ContainsKey(key) ? Request.Headers[key].ToString() : null;
                 if (tokenEncoded == null)
                 {

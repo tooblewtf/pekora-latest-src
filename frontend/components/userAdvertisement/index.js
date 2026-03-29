@@ -17,6 +17,22 @@ const useStyles = createUseStyles({
             paddingBottom: '10px',
         },
     },
+	adIdentification: {
+        float: 'left',
+        fontSize: '10px',
+    },
+	adIdentificationText: {
+        color: '#191919',
+        textTransform: 'uppercase',
+    },
+	BadAdButton: {
+        color: '#757575',
+        float: 'right',
+		fontSize: '10px',
+        '&:hover': {
+          color: 'red',
+        },
+    },
 })
 
 /**
@@ -69,7 +85,13 @@ const UserAdvertisement = props => {
                     setImageLoaded(true)
                 }} src={imageUrl} className={s.adImage} style={{ maxWidth: info.width, maxHeight: info.height }}/>
             </a>
-        </Link>
+			</Link>
+			<div>
+			<span className={s.adIdentification}>
+                <span className={s.adIdentificationText}>Advertisement</span>
+            </span>
+			<a className={s.BadAdButton} target='_top' href='https://www.silrev.biz/abusereport/Asset' title='click to report an offensive ad'>Report</a>
+		</div>
     </div>
 }
 

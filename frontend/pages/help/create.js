@@ -18,7 +18,7 @@ const CreateHelp = props => {
 export const getStaticProps = () => {
     return {
         props: {
-            title: 'Creating Help - Pekora',
+            title: 'Creating Help - Marine',
             disableWebsiteTheming: true,
         },
     };

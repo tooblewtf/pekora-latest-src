@@ -13,7 +13,7 @@ const GodHelpMe = props => {
 export const getStaticProps = () => {
     return {
         props: {
-            title: 'Help - Pekora',
+            title: 'Help - Marine',
             disableWebsiteTheming: true,
         },
     };

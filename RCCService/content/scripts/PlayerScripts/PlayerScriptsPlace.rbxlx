@@ -1,4 +1,4 @@
-<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.pekora.zip/roblox.xsd" version="4">
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.silrev.biz/roblox.xsd" version="4">
 	<External>null</External>
 	<External>nil</External>
 	<Item class="Workspace" referent="RBX89e01d10862142c69ce7e57955c5374f">
@@ -105,7 +105,7 @@
 				<Properties>
 					<token name="Face">1</token>
 					<string name="Name">Decal</string>
-					<Content name="Texture"><url>http://www.pekora.zip/asset/?id=118203087 </url></Content>
+					<Content name="Texture"><url>http://www.silrev.biz/asset/?id=118203087 </url></Content>
 					<float name="Transparency">1</float>
 				</Properties>
 			</Item>
@@ -507,7 +507,7 @@ end
 				<Properties>
 					<token name="Face">1</token>
 					<string name="Name">Decal</string>
-					<Content name="Texture"><url>http://www.pekora.zip/asset/?id=118203087 </url></Content>
+					<Content name="Texture"><url>http://www.silrev.biz/asset/?id=118203087 </url></Content>
 					<float name="Transparency">1</float>
 				</Properties>
 			</Item>
@@ -705,7 +705,7 @@ Kf8CACj/LAAR/0AA]]></BinaryString>
 				<Properties>
 					<token name="Face">1</token>
 					<string name="Name">Decal</string>
-					<Content name="Texture"><url>http://www.pekora.zip/asset/?id=118203087 </url></Content>
+					<Content name="Texture"><url>http://www.silrev.biz/asset/?id=118203087 </url></Content>
 					<float name="Transparency">1</float>
 				</Properties>
 			</Item>
@@ -2574,7 +2574,7 @@ Kf8CACj/LAAR/0AA]]></BinaryString>
 					<Properties>
 						<token name="Face">4</token>
 						<string name="Name">Decal</string>
-						<Content name="Texture"><url>http://www.pekora.zip/asset?id=58264306</url></Content>
+						<Content name="Texture"><url>http://www.silrev.biz/asset?id=58264306</url></Content>
 						<float name="Transparency">0</float>
 					</Properties>
 				</Item>
@@ -6829,7 +6829,7 @@ Kf8CACj/LAAR/0AA]]></BinaryString>
 					<Properties>
 						<token name="Face">0</token>
 						<string name="Name">Decal</string>
-						<Content name="Texture"><url>http://www.pekora.zip/asset?id=44056361</url></Content>
+						<Content name="Texture"><url>http://www.silrev.biz/asset?id=44056361</url></Content>
 						<float name="Transparency">0</float>
 					</Properties>
 				</Item>
@@ -9745,31 +9745,31 @@ end
 				</Item>
 				<Item class="Animation" referent="RBX2df413780eeb44eeb52e33ec9d39047f">
 					<Properties>
-						<Content name="AnimationId"><url>http://www.pekora.zip/Asset?ID=21417802</url></Content>
+						<Content name="AnimationId"><url>http://www.silrev.biz/Asset?ID=21417802</url></Content>
 						<string name="Name">boardkick</string>
 					</Properties>
 				</Item>
 				<Item class="Animation" referent="RBXdf79a04787834030bf5979506ef1dd95">
 					<Properties>
-						<Content name="AnimationId"><url>http://www.pekora.zip/Asset?ID=21698666</url></Content>
+						<Content name="AnimationId"><url>http://www.silrev.biz/Asset?ID=21698666</url></Content>
 						<string name="Name">coastingpose</string>
 					</Properties>
 				</Item>
 				<Item class="Animation" referent="RBX9d15454c98244415b421705d2dca3e20">
 					<Properties>
-						<Content name="AnimationId"><url>http://www.pekora.zip/Asset?ID=21632926</url></Content>
+						<Content name="AnimationId"><url>http://www.silrev.biz/Asset?ID=21632926</url></Content>
 						<string name="Name">leftturn</string>
 					</Properties>
 				</Item>
 				<Item class="Animation" referent="RBX5e9403991f354f5a90fbee37ed33b641">
 					<Properties>
-						<Content name="AnimationId"><url>http://www.pekora.zip/Asset?ID=21700751</url></Content>
+						<Content name="AnimationId"><url>http://www.silrev.biz/Asset?ID=21700751</url></Content>
 						<string name="Name">ollie</string>
 					</Properties>
 				</Item>
 				<Item class="Animation" referent="RBX922531d290ad43c99bbea35d4db2cd64">
 					<Properties>
-						<Content name="AnimationId"><url>http://www.pekora.zip/Asset?ID=21633130</url></Content>
+						<Content name="AnimationId"><url>http://www.silrev.biz/Asset?ID=21633130</url></Content>
 						<string name="Name">rightturn</string>
 					</Properties>
 				</Item>
@@ -9781,7 +9781,7 @@ end
 						<string name="Name">CruiseLoop</string>
 						<float name="Pitch">0.862550259</float>
 						<bool name="PlayOnRemove">false</bool>
-						<Content name="SoundId"><url>http://www.pekora.zip/asset/?id=22917014</url></Content>
+						<Content name="SoundId"><url>http://www.silrev.biz/asset/?id=22917014</url></Content>
 						<float name="Volume">0</float>
 					</Properties>
 				</Item>
@@ -9793,7 +9793,7 @@ end
 						<string name="Name">BoardDrop</string>
 						<float name="Pitch">1</float>
 						<bool name="PlayOnRemove">false</bool>
-						<Content name="SoundId"><url>http://www.pekora.zip/asset/?id=22920550</url></Content>
+						<Content name="SoundId"><url>http://www.silrev.biz/asset/?id=22920550</url></Content>
 						<float name="Volume">0.5</float>
 					</Properties>
 				</Item>
@@ -9805,7 +9805,7 @@ end
 						<string name="Name">BoardStop</string>
 						<float name="Pitch">1</float>
 						<bool name="PlayOnRemove">false</bool>
-						<Content name="SoundId"><url>http://www.pekora.zip/asset/?id=22920633</url></Content>
+						<Content name="SoundId"><url>http://www.silrev.biz/asset/?id=22920633</url></Content>
 						<float name="Volume">0.915692925</float>
 					</Properties>
 				</Item>
@@ -9817,7 +9817,7 @@ end
 						<string name="Name">BoardOllie</string>
 						<float name="Pitch">1</float>
 						<bool name="PlayOnRemove">false</bool>
-						<Content name="SoundId"><url>http://www.pekora.zip/asset/?id=22921446</url></Content>
+						<Content name="SoundId"><url>http://www.silrev.biz/asset/?id=22921446</url></Content>
 						<float name="Volume">0.5</float>
 					</Properties>
 				</Item>
@@ -9825,7 +9825,7 @@ end
 					<Properties>
 						<token name="LODX">2</token>
 						<token name="LODY">2</token>
-						<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=25244821</url></Content>
+						<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=25244821</url></Content>
 						<token name="MeshType">5</token>
 						<string name="Name">Mesh</string>
 						<Vector3 name="Offset">
@@ -9838,7 +9838,7 @@ end
 							<Y>1.14999998</Y>
 							<Z>1.14999998</Z>
 						</Vector3>
-						<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=27757752</url></Content>
+						<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=27757752</url></Content>
 						<Vector3 name="VertexColor">
 							<X>1</X>
 							<Y>1</Y>
@@ -12613,7 +12613,7 @@ end
 					<Properties>
 						<token name="Face">4</token>
 						<string name="Name">Decal</string>
-						<Content name="Texture"><url>http://www.pekora.zip/asset?id=58264306</url></Content>
+						<Content name="Texture"><url>http://www.silrev.biz/asset?id=58264306</url></Content>
 						<float name="Transparency">0</float>
 					</Properties>
 				</Item>
@@ -16868,7 +16868,7 @@ end
 					<Properties>
 						<token name="Face">0</token>
 						<string name="Name">Decal</string>
-						<Content name="Texture"><url>http://www.pekora.zip/asset?id=44056361</url></Content>
+						<Content name="Texture"><url>http://www.silrev.biz/asset?id=44056361</url></Content>
 						<float name="Transparency">0</float>
 					</Properties>
 				</Item>
@@ -20841,7 +20841,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 					<Properties>
 						<token name="Face">4</token>
 						<string name="Name">Decal</string>
-						<Content name="Texture"><url>http://www.pekora.zip/asset?id=58264306</url></Content>
+						<Content name="Texture"><url>http://www.silrev.biz/asset?id=58264306</url></Content>
 						<float name="Transparency">0</float>
 					</Properties>
 				</Item>
@@ -25096,7 +25096,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 					<Properties>
 						<token name="Face">0</token>
 						<string name="Name">Decal</string>
-						<Content name="Texture"><url>http://www.pekora.zip/asset?id=44056361</url></Content>
+						<Content name="Texture"><url>http://www.silrev.biz/asset?id=44056361</url></Content>
 						<float name="Transparency">0</float>
 					</Properties>
 				</Item>
@@ -35698,7 +35698,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=140180873</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=140180873</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -36111,7 +36111,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=141645119</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=141645119</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -36211,7 +36211,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -36224,7 +36224,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -36430,7 +36430,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -36443,7 +36443,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -36547,7 +36547,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -36560,7 +36560,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -36644,7 +36644,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -36657,7 +36657,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -36957,7 +36957,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -36970,7 +36970,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -37074,7 +37074,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -37087,7 +37087,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -37171,7 +37171,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -37184,7 +37184,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -37484,7 +37484,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -37497,7 +37497,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -37601,7 +37601,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -37614,7 +37614,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -37698,7 +37698,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -37711,7 +37711,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -38011,7 +38011,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -38024,7 +38024,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -38128,7 +38128,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -38141,7 +38141,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -38225,7 +38225,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -38238,7 +38238,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -38538,7 +38538,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -38551,7 +38551,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -39878,7 +39878,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -40307,7 +40307,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=87328065</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=87328065</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -40720,7 +40720,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=140180873</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=140180873</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -42897,7 +42897,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -44734,7 +44734,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -44831,7 +44831,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -44928,7 +44928,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -49544,7 +49544,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -49557,7 +49557,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -49641,7 +49641,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -49654,7 +49654,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -49954,7 +49954,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -49967,7 +49967,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -50071,7 +50071,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -50084,7 +50084,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -50168,7 +50168,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -50181,7 +50181,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -50481,7 +50481,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -50494,7 +50494,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -50598,7 +50598,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -50611,7 +50611,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -50817,7 +50817,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -50830,7 +50830,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -50934,7 +50934,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -50947,7 +50947,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -51153,7 +51153,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -51166,7 +51166,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -51270,7 +51270,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -51283,7 +51283,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -51489,7 +51489,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -51502,7 +51502,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -51606,7 +51606,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -51619,7 +51619,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -51825,7 +51825,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -51838,7 +51838,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -52849,7 +52849,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -52862,7 +52862,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -53068,7 +53068,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -53081,7 +53081,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -54597,7 +54597,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -56591,7 +56591,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -56604,7 +56604,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -56857,7 +56857,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -56870,7 +56870,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -56954,7 +56954,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -56967,7 +56967,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -57051,7 +57051,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -57064,7 +57064,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -57148,7 +57148,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -57161,7 +57161,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -57751,7 +57751,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -60054,7 +60054,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -60558,7 +60558,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -60571,7 +60571,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -60655,7 +60655,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -60668,7 +60668,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -60968,7 +60968,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -60981,7 +60981,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -61085,7 +61085,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -61098,7 +61098,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -61182,7 +61182,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -61195,7 +61195,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -61495,7 +61495,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -61508,7 +61508,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>2</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -64200,7 +64200,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -64213,7 +64213,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -64419,7 +64419,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -64432,7 +64432,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -71161,7 +71161,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=114245631</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=114245631</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -71574,7 +71574,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=40514093</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=40514093</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -71987,7 +71987,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=114245631</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=114245631</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -73120,7 +73120,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=87328065</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=87328065</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -73220,7 +73220,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -73233,7 +73233,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -73486,7 +73486,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -73499,7 +73499,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -73583,7 +73583,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -73596,7 +73596,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -73680,7 +73680,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -73693,7 +73693,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -73777,7 +73777,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -73790,7 +73790,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -75158,7 +75158,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -75171,7 +75171,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -75377,7 +75377,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -75390,7 +75390,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -79874,7 +79874,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -79887,7 +79887,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -80093,7 +80093,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -80106,7 +80106,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -80523,7 +80523,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="Face">3</token>
 								<string name="Name">Decal</string>
-								<Content name="Texture"><url>http://www.pekora.zip/asset/?id=87328065</url></Content>
+								<Content name="Texture"><url>http://www.silrev.biz/asset/?id=87328065</url></Content>
 								<float name="Transparency">0</float>
 							</Properties>
 						</Item>
@@ -84808,7 +84808,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -84905,7 +84905,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -85002,7 +85002,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -85099,7 +85099,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 						<Properties>
 							<token name="LODX">2</token>
 							<token name="LODY">2</token>
-							<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1285245</url></Content>
+							<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1285245</url></Content>
 							<token name="MeshType">5</token>
 							<string name="Name">Mesh</string>
 							<Vector3 name="Offset">
@@ -86531,7 +86531,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -86544,7 +86544,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -86797,7 +86797,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -86810,7 +86810,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -86894,7 +86894,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -86907,7 +86907,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -86991,7 +86991,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87004,7 +87004,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -87088,7 +87088,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87101,7 +87101,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -87277,7 +87277,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87290,7 +87290,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -87543,7 +87543,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87556,7 +87556,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -87640,7 +87640,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87653,7 +87653,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -87737,7 +87737,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87750,7 +87750,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -87834,7 +87834,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -87847,7 +87847,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>1</Y>
 									<Z>1.5</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -88781,7 +88781,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -88794,7 +88794,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -89000,7 +89000,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 							<Properties>
 								<token name="LODX">2</token>
 								<token name="LODY">2</token>
-								<Content name="MeshId"><url>http://www.pekora.zip/asset/?id=1091940</url></Content>
+								<Content name="MeshId"><url>http://www.silrev.biz/asset/?id=1091940</url></Content>
 								<token name="MeshType">5</token>
 								<string name="Name">Mesh</string>
 								<Vector3 name="Offset">
@@ -89013,7 +89013,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 									<Y>2</Y>
 									<Z>3</Z>
 								</Vector3>
-								<Content name="TextureId"><url>http://www.pekora.zip/asset/?id=1091942</url></Content>
+								<Content name="TextureId"><url>http://www.silrev.biz/asset/?id=1091942</url></Content>
 								<Vector3 name="VertexColor">
 									<X>0.5</X>
 									<Y>0.5</Y>
@@ -104691,7 +104691,7 @@ end
 						<Properties>
 							<token name="Face">4</token>
 							<string name="Name">Decal</string>
-							<Content name="Texture"><url>http://www.pekora.zip/asset?id=58264306</url></Content>
+							<Content name="Texture"><url>http://www.silrev.biz/asset?id=58264306</url></Content>
 							<float name="Transparency">0</float>
 						</Properties>
 					</Item>
@@ -108946,7 +108946,7 @@ end
 						<Properties>
 							<token name="Face">0</token>
 							<string name="Name">Decal</string>
-							<Content name="Texture"><url>http://www.pekora.zip/asset?id=44056361</url></Content>
+							<Content name="Texture"><url>http://www.silrev.biz/asset?id=44056361</url></Content>
 							<float name="Transparency">0</float>
 						</Properties>
 					</Item>
@@ -111131,7 +111131,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 				<Properties>
 					<token name="Face">1</token>
 					<string name="Name">Decal</string>
-					<Content name="Texture"><url>http://www.pekora.zip/asset/?id=118203087 </url></Content>
+					<Content name="Texture"><url>http://www.silrev.biz/asset/?id=118203087 </url></Content>
 					<float name="Transparency">1</float>
 				</Properties>
 			</Item>
@@ -111211,7 +111211,7 @@ vehicle.ChildRemoved:connect(checkIfVehicleIsDamaged)
 				<Properties>
 					<token name="Face">1</token>
 					<string name="Name">Decal</string>
-					<Content name="Texture"><url>http://www.pekora.zip/asset/?id=118203087 </url></Content>
+					<Content name="Texture"><url>http://www.silrev.biz/asset/?id=118203087 </url></Content>
 					<float name="Transparency">1</float>
 				</Properties>
 			</Item>

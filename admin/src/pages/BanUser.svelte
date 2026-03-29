@@ -8,19 +8,19 @@
 	const quickFillReasons: { name: string; text: string }[] = [
 		{
 			name: 'TOS Violation',
-			text: 'This account has been closed due to violating Pekora terms of service.',
+			text: 'This account has been closed due to violating Marine terms of service.',
 		},
 		{
 			name: 'Bad Username',
-			text: 'Your username is inappropriate for Pekora.',
+			text: 'Your username is inappropriate for Marine.',
 		},
 		{
 			name: 'Bad Username (Privacy Issue)',
-			text: 'Your username is not appropriate for Pekora due to privacy concerns. ',
+			text: 'Your username is not appropriate for Marine due to privacy concerns. ',
 		},
 		{
 			name: 'Spam',
-			text: 'Do not repeatedly post spam chat or content in Pekora.',
+			text: 'Do not repeatedly post spam chat or content in Marine.',
 		},
 		{
 			name: 'Inappropriate Behaviour',
@@ -28,11 +28,11 @@
 		},
 		{
 			name: 'Hate Speech',
-			text: 'This content is not appropriate. Hate speech is not permitted on Pekora.',
+			text: 'This content is not appropriate. Hate speech is not permitted on Marine.',
 		},
 		{
 			name: 'Real-Life Information',
-			text: 'Do not ask for or give out personal, real-life, or private information on Pekora.',
+			text: 'Do not ask for or give out personal, real-life, or private information on Marine.',
 		},
 		{
 			name: 'Disputed Charges',
@@ -40,7 +40,7 @@
 		},
 		{
 			name: 'USDer',
-			text: 'Your account has been moderated for buying, selling, or trading Robux or virtual Pekora items outside of the Pekora website.',
+			text: 'Your account has been moderated for buying, selling, or trading Robux or virtual Marine items outside of the Marine website.',
 		},
 		{
 			name: 'Pois Lims',
