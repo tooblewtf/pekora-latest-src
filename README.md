@@ -1,8 +1,9 @@
 <div align="center">
 </div>
 
-<h1 align="center">Pekora/Project X 5(LATEST 30 AUGUST 2025)</h1>
+<h1 align="center">Pekora/Project X  (latest version from 30 AUGUST 2025)</h1>
 <p align="center">Pekora is roblox revival, i decided to leak this because chloe is an big racist and a femboy.</p>
+<p align="center">Also please do not contact me on trying to get the source setup. there are many guides on how to and if you read this guide properly you shouldn't need help.</p>
 
 <div align="center">
 
@@ -28,11 +29,18 @@ If you want to build your own roblox please DON'T MAKE A REVIVAL WITH A SRC BUIL
 
 # HOW TO SETUP
 
-This is the source code as of December 15, 2024 (i think so). Some parts have been removed due to them being irrelevant to most people (e.g. a deployment program). Although it's easy to get the basics up and running, you will probably have to make many changes for it to be completely functional.
+## things you need
 
-This requires Linux or Windows + WSL. It might also work on Mac, but I haven't tried.
+- <a href="https://nodejs.org/dist/v18.16.1/node-v18.16.1-x64.msi">Node.js</a>, *to run the renderer/build panel*
+- <a href="https://sbp.enterprisedb.com/getfile.jsp?fileid=1258627">PostgreSQL</a>, *for the database*
+- <a href="https://builds.dotnet.microsoft.com/dotnet/Sdk/6.0.412/dotnet-sdk-6.0.412-win-x64.exe">.NET 6.0</a>, *to run the website*
+- <a href="https://go.dev/dl/go1.20.6.windows-amd64.msi">Go</a>, *for asset validation*
+- <a href="https://github.com/redis-windows/redis-windows/releases/download/8.6.2/Redis-8.6.2-Windows-x64-cygwin-with-Service.zip">Redis Server</a> *important*
 
-Postgresql (13+) and redis are required. If you're on windows, you will need to install WSL, and then install redis with WSL.
+## requirements
+- at least Windows 10, Linux is untested as my server is a Windows machine. You should use Wine to run everything if you are using linux (or if running a Debian vps, you can use Proxmox and run a windows VM.)
+- a 10 character long domain that supports both HTTP and HTTPS
+- knowledge on how things like this work (you should have at least some experience with websites and coding to be able to host this. it's really not hard to set up if you know what you're doing.)
 
 1. Create a PG user, DB, and create a file called `"config.json"` in `services/api`. Put this in it (replacing the DB, User, and Pass with your credentials):
 
